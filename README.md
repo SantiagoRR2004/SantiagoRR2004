@@ -16,9 +16,8 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
-| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 136 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 127 |
+| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 137 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 128 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 112 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
@@ -41,7 +40,9 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
+| [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 0 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
+| [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1349 |
+| Total | 1170 |
