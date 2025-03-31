@@ -18,12 +18,9 @@
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 140 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 131 |
-| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 112 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 132 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
-| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 81 |
-| [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 54 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
@@ -34,15 +31,18 @@
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
-| [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 5 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 5 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
-| [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
+| [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 0 |
+| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 0 |
+| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 0 |
+| [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 0 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 0 |
+| [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1363 |
+| Total | 1077 |
