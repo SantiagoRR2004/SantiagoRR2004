@@ -18,7 +18,7 @@
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 141 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 140 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 141 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 112 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
@@ -46,4 +46,4 @@
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1413 |
+| Total | 1414 |
