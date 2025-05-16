@@ -17,16 +17,16 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 177 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 178 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 151 |
-| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 114 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 102 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
-| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 72 |
+| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 79 |
+| [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
-| [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
-| [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 64 |
+| [SIRE-Ada](https://github.com/SantiagoRR2004/SIRE-Ada) | 60 |
+| [SIRE-Lustre](https://github.com/SantiagoRR2004/SIRE-Lustre) | 49 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
@@ -42,8 +42,10 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
+| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 0 |
+| [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 0 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1519 |
+| Total | 1464 |
