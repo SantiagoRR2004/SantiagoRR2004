@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 312 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 213 |
+| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 319 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 214 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 170 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -49,4 +49,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1996 |
+| Total | 2004 |
