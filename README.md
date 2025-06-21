@@ -17,10 +17,11 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 319 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 217 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 218 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 170 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
+| [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
@@ -38,6 +39,7 @@
 | [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 30 |
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
+| [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 6 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 5 |
@@ -49,4 +51,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2007 |
+| Total | 2169 |
