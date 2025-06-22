@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 319 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 218 |
+| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 320 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 219 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 170 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -34,6 +34,7 @@
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
+| [APAU_II-FineTuning](https://github.com/SantiagoRR2004/APAU_II-FineTuning) | 38 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
 | [Hackathon](https://github.com/SantiagoRR2004/Hackathon) | 34 |
 | [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 30 |
@@ -41,6 +42,8 @@
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
+| [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 18 |
+| [APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 7 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 6 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 5 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
@@ -51,4 +54,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2169 |
+| Total | 2234 |
