@@ -17,14 +17,14 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 264 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 265 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 171 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
-| [GRIA-TestCreator2](https://github.com/SantiagoRR2004/GRIA-TestCreator2) | 102 |
+| [GRIA-TestCreator2](https://github.com/SantiagoRR2004/GRIA-TestCreator2) | 108 |
+| [Modules](https://github.com/SantiagoRR2004/Modules) | 99 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 97 |
-| [Modules](https://github.com/SantiagoRR2004/Modules) | 96 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
@@ -58,4 +58,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2677 |
+| Total | 2687 |
