@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 373 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 374 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 148 |
@@ -33,7 +33,7 @@
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
-| [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 54 |
+| [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 55 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
@@ -59,4 +59,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2878 |
+| Total | 2880 |
