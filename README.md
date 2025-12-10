@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 389 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 390 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 148 |
@@ -32,7 +32,7 @@
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
-| [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 61 |
+| [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
@@ -45,6 +45,7 @@
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 22 |
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
+| [CIN-Deepfakes](https://github.com/SantiagoRR2004/CIN-Deepfakes) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 18 |
 | [APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 7 |
@@ -56,6 +57,5 @@
 | [FixDancer](https://github.com/SantiagoRR2004/FixDancer) | 2 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
-| [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2792 |
+| Total | 2815 |
