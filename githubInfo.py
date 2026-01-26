@@ -1,5 +1,6 @@
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
+import datetime
 import requests
 import string
 import random
@@ -47,6 +48,52 @@ def getAuthorID() -> str:
         user = response.json()
         NODEID = user["node_id"]
         return NODEID
+
+
+def getFirstContributionYear() -> int:
+    """
+    Infer the first contribution year for the author using GraphQL.
+
+    Falls back to the account creation year or the current year if the
+    contribution years are unavailable.
+
+    Args:
+        - None
+
+    Returns:
+        - int: The first contribution year.
+    """
+    query = """
+        {
+            user(login: "{login}") {
+                createdAt
+                contributionsCollection {
+                    contributionYears
+                }
+            }
+        }
+        """
+
+    query = query.replace("{login}", AUTHOR)
+
+    result = runQuery(query, TOKEN)
+    print(result)
+
+    if result:
+        user = result["data"]["user"]
+        contributionYears = user["contributionsCollection"]["contributionYears"]
+
+        if contributionYears:
+            return min(contributionYears)
+
+        created_at = user.get("createdAt")
+        if created_at:
+            # createdAt is ISO 8601 with a trailing Z
+            return datetime.datetime.fromisoformat(
+                created_at.replace("Z", "+00:00")
+            ).year
+
+    return datetime.datetime.now().year
 
 
 def getRepoData(repository: str) -> dict:
@@ -455,17 +502,17 @@ def getRepositoriesWithGraphQL() -> list:
     # GraphQL query
     queryTemplateCommit = """
     user(login: "{login}") {
-        repositoriesContributedTo(
-            first: 100,
-            after: {cursor},
-            contributionTypes: [COMMIT]
-        ) {
-            nodes {
-                nameWithOwner
-            }
-            pageInfo {
-                endCursor
-                hasNextPage
+        contributionsCollection(from: "{fromDate}") {
+            commitContributionsByRepository(maxRepositories: 100) {
+                repository {
+                    nameWithOwner
+                }
+                contributions(first: 1) {
+                    totalCount
+                    nodes {
+                        occurredAt
+                    }
+                }
             }
         }
     }
@@ -502,15 +549,15 @@ def getRepositoriesWithGraphQL() -> list:
     queryTemplateCommit = queryTemplateCommit.replace("{login}", AUTHOR)
     queryTemplateIssues = queryTemplateIssues.replace("{login}", AUTHOR)
 
-    cursorC = "null"
+    fromYear = getFirstContributionYear()
     cursorI = "null"
     repositories = set()
 
-    while cursorC or cursorI:
+    while fromYear <= datetime.datetime.now().year or cursorI:
 
-        if cursorC:
+        if fromYear <= datetime.datetime.now().year:
             queryCommits = queryTemplateCommit.replace(
-                "{cursor}", f'"{cursorC}"' if cursorC != "null" else "null"
+                "{fromDate}", f"{fromYear}-01-01T00:00:00Z"
             )
         else:
             queryCommits = ""
@@ -526,25 +573,27 @@ def getRepositoriesWithGraphQL() -> list:
         result = runQuery(query, TOKEN)
 
         if result:
-            dataC = result["data"]["user"]["repositoriesContributedTo"]
 
-            for repo in dataC["nodes"]:
-                repositories.add(repo["nameWithOwner"])
+            if fromYear <= datetime.datetime.now().year:
+                dataC = result["data"]["user"]["contributionsCollection"][
+                    "commitContributionsByRepository"
+                ]
 
-            if not dataC["pageInfo"]["hasNextPage"]:
-                cursorC = False
-            else:
-                cursorC = dataC["pageInfo"]["endCursor"]
+                for repo in dataC:
+                    repositories.add(repo["repository"]["nameWithOwner"])
 
-            dataI = result["data"]["search"]
+                fromYear += 1
 
-            for node in dataI["nodes"]:
-                repositories.add(node["repository"]["nameWithOwner"])
+            if cursorI:
+                dataI = result["data"]["search"]
 
-            if not dataI["pageInfo"]["hasNextPage"]:
-                cursorI = False
-            else:
-                cursorI = dataI["pageInfo"]["endCursor"]
+                for node in dataI["nodes"]:
+                    repositories.add(node["repository"]["nameWithOwner"])
+
+                if not dataI["pageInfo"]["hasNextPage"]:
+                    cursorI = False
+                else:
+                    cursorI = dataI["pageInfo"]["endCursor"]
 
         else:
             break
