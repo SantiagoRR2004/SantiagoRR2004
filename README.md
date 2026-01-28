@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 2.9 MB | 42.55% |
-| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 41.66% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 2.9 MB | 42.57% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 41.65% |
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 382.1 kB | 5.49% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.23% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 129.7 kB | 1.86% |
@@ -44,11 +44,11 @@
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
-| [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 113 |
+| [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 88 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 89 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
@@ -82,7 +82,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2520 |
+| Total | 2526 |
 
 ## Collaborators
 
