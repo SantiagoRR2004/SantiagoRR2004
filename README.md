@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 55.69% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 55.70% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 31.87% |
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 383.3 kB | 4.21% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 4.00% |
@@ -48,7 +48,7 @@
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 93 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 94 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
@@ -58,9 +58,9 @@
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 69 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [VIAR](https://github.com/SantiagoRR2004/VIAR) | 65 |
+| [pythocron](https://github.com/SantiagoRR2004/pythocron) | 48 |
 | [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 47 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
-| [pythocron](https://github.com/SantiagoRR2004/pythocron) | 47 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 42 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 41 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
@@ -86,7 +86,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2674 |
+| Total | 2676 |
 
 ## Collaborators
 

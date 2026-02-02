@@ -169,8 +169,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 93,
-    "userCommits": 93,
+    "commits": 94,
+    "userCommits": 94,
     "languages": {
       "Python": 21834
     },
@@ -346,6 +346,23 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/SantiagoRR2004/pythocron": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 52,
+    "userCommits": 48,
+    "languages": {
+      "Python": 9469,
+      "Shell": 625
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/GRIA-Optativas": {
     "stars": 0,
     "forks": 0,
@@ -379,23 +396,6 @@
       "76734632": "Sergiooo0",
       "65916846": "actions-user",
       "6004566": "ribadas-uvigo"
-    }
-  },
-  "https://github.com/SantiagoRR2004/pythocron": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 51,
-    "userCommits": 47,
-    "languages": {
-      "Python": 9219,
-      "Shell": 625
-    },
-    "contributors": {
-      "65916846": "actions-user"
     }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
@@ -559,7 +559,7 @@
     "userIssues": 6,
     "pullRequests": 7,
     "userPullRequests": 4,
-    "commits": 56,
+    "commits": 57,
     "userCommits": 25,
     "languages": {
       "Python": 30297
@@ -838,7 +838,7 @@
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 138,
     "forks": 39,
-    "issues": 254,
+    "issues": 255,
     "userIssues": 1,
     "pullRequests": 578,
     "userPullRequests": 0,
