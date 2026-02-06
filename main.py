@@ -192,9 +192,9 @@ if __name__ == "__main__":
             profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></a></span>'
 
             userProfiles.append(
-                f"{profilePicture}&ensp;"
-                + f"<code>[{collabName}](https://github.com/{collabName})</code>"
-                + f"&ensp;{profilePicture}"
+                f"<code>{profilePicture}&ensp;"
+                + f"[{collabName}](https://github.com/{collabName})"
+                + f"&ensp;{profilePicture}</code>"
             )
 
         markDownTableCollab += f"| {whiteSpace.join(userProfiles)} | {collabCount} |\n"
