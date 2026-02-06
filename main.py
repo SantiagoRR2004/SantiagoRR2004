@@ -172,7 +172,9 @@ if __name__ == "__main__":
 """
 
     # White space that can't be touched by the neighboring urls
-    whiteSpace = "<a>&nbsp;</a>"
+    whiteSpace = "<a>&ensp;</a>"
+
+    whiteSpace3 = whiteSpace * 3
 
     for collabCount, collabDict in collaboratorsR.items():
         # Sort by username
@@ -187,7 +189,7 @@ if __name__ == "__main__":
         userProfiles = []
 
         for collabId, collabName in collabDict.items():
-            profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></span>'
+            profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></a></span>'
 
             userProfiles.append(
                 "<span>"
@@ -197,7 +199,7 @@ if __name__ == "__main__":
                 + "</span>"
             )
 
-        markDownTableCollab += f"| {"<a><a>".join(userProfiles)} | {collabCount} |\n"
+        markDownTableCollab += f"| {whiteSpace3.join(userProfiles)} | {collabCount} |\n"
 
     # Add the total number of collaborations
     markDownTableCollab += (
