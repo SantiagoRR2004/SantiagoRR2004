@@ -190,14 +190,14 @@ if __name__ == "__main__":
             profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></span>'
 
             userProfiles.append(
-                f"{profilePicture}{whiteSpace}"
+                "<span>"
+                + f"{profilePicture}{whiteSpace}"
                 + f"<code>[{collabName}](https://github.com/{collabName})</code>"
                 + f"{whiteSpace}{profilePicture}"
+                + "</span>"
             )
 
-        markDownTableCollab += (
-            f"| {"<a><a>".join(userProfiles)} | {collabCount} |\n"
-        )
+        markDownTableCollab += f"| {"<a><a>".join(userProfiles)} | {collabCount} |\n"
 
     # Add the total number of collaborations
     markDownTableCollab += (
