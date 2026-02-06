@@ -197,7 +197,7 @@ if __name__ == "__main__":
                 + "</span>"
             )
 
-        markDownTableCollab += f"| {whiteSpace.join(userProfiles)} | {collabCount} |\n"
+        markDownTableCollab += f"| {"  ".join(userProfiles)} | {collabCount} |\n"
 
     # Add the total number of collaborations
     markDownTableCollab += (
