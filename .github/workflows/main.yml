@@ -2,6 +2,7 @@ name: Run main.py
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: "0 0 * * *" # Runs at midnight (12:00 AM) every day
 
