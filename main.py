@@ -172,7 +172,7 @@ if __name__ == "__main__":
 """
 
     # White space that can't be touched by the neighboring urls
-    whiteSpace = "<a>\u2007</a>"
+    whiteSpace = "<a>&nbsp;</a>"
 
     for collabCount, collabDict in collaboratorsR.items():
         # Sort by username
