@@ -174,7 +174,7 @@ if __name__ == "__main__":
     # White space that can't be touched by the neighboring urls
     whiteSpace = "<a>&ensp;</a>"
 
-    whiteSpace3 = whiteSpace * 3
+    whiteSpace3 = "<a>&ensp;</a>" + "<a></a>" + "<a>&ensp;</a>"
 
     for collabCount, collabDict in collaboratorsR.items():
         # Sort by username
