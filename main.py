@@ -172,7 +172,7 @@ if __name__ == "__main__":
 """
 
     # White space that can't be touched by the neighboring urls
-    whiteSpace = "<a>&ensp;</a>"
+    whiteSpace = "<a>\u2007</a>"
 
     for collabCount, collabDict in collaboratorsR.items():
         # Sort by username
@@ -197,7 +197,7 @@ if __name__ == "__main__":
                 + "</span>"
             )
 
-        markDownTableCollab += f"| {"  ".join(userProfiles)} | {collabCount} |\n"
+        markDownTableCollab += f"| {"<a>&ensp;</a>".join(userProfiles)} | {collabCount} |\n"
 
     # Add the total number of collaborations
     markDownTableCollab += (
