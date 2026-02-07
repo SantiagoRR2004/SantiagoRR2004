@@ -192,7 +192,7 @@ if __name__ == "__main__":
             profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></a></span>'
 
             userProfiles.append(
-                f"<code>{profilePicture}"
+                f"<code white-space: nowrap>{profilePicture}"
                 + f"[{collabName}](https://github.com/{collabName})"
                 + f"{profilePicture}</code>"
             )
