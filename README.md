@@ -51,7 +51,7 @@
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 106 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 107 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
@@ -95,7 +95,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2898 |
+| Total | 2899 |
 
 ## Collaborators
 
