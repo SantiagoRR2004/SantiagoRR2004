@@ -314,6 +314,9 @@ def getContributors(repository: str) -> dict:
         if username == AUTHOR:
             del contributors[id]
 
+    # Sort by name to make it deterministic
+    contributors = dict(sorted(contributors.items(), key=lambda item: item[1]))
+
     return contributors
 
 
