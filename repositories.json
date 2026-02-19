@@ -173,6 +173,20 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 112,
+    "userCommits": 112,
+    "languages": {
+      "Python": 21959
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/Modules": {
     "stars": 0,
     "forks": 0,
@@ -188,20 +202,6 @@
     "contributors": {
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 111,
-    "userCommits": 111,
-    "languages": {
-      "Python": 21959
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/PIC-Java": {
     "stars": 0,
@@ -790,6 +790,22 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/Statistics-Football": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 9,
+    "userCommits": 8,
+    "languages": {
+      "R": 5043
+    },
+    "contributors": {
+      "198917613": "TomasCotos"
+    }
+  },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
     "stars": 0,
     "forks": 0,
@@ -808,7 +824,7 @@
       "2480261": "sdocio"
     }
   },
-  "https://github.com/SantiagoRR2004/Statistics-Football": {
+  "https://github.com/SantiagoRR2004/Statistics-NaiveBayes": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
@@ -818,7 +834,7 @@
     "commits": 8,
     "userCommits": 7,
     "languages": {
-      "R": 5043
+      "R": 7561
     },
     "contributors": {
       "198917613": "TomasCotos"
@@ -1248,7 +1264,7 @@
     "forks": 135,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 548,
+    "pullRequests": 549,
     "userPullRequests": 2,
     "commits": 1277,
     "userCommits": 1,
@@ -1377,11 +1393,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5467,
-    "forks": 3237,
+    "stars": 5470,
+    "forks": 3238,
     "issues": 822,
     "userIssues": 1,
-    "pullRequests": 10779,
+    "pullRequests": 10784,
     "userPullRequests": 1,
     "commits": 28460,
     "userCommits": 0,
