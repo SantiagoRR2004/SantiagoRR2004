@@ -147,6 +147,20 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 113,
+    "userCommits": 113,
+    "languages": {
+      "Python": 21959
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/Agentes": {
     "stars": 0,
     "forks": 0,
@@ -172,20 +186,6 @@
       "150940164": "samuelalvarez034",
       "116091929": "usbt0p"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 112,
-    "userCommits": 112,
-    "languages": {
-      "Python": 21959
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/Modules": {
     "stars": 0,
@@ -533,11 +533,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 35,
-    "userCommits": 35,
+    "commits": 36,
+    "userCommits": 36,
     "languages": {
       "JavaScript": 39146,
-      "HTML": 852
+      "HTML": 852,
+      "robots.txt": 25
     },
     "contributors": {}
   },
@@ -757,6 +758,22 @@
       "146563007": "AdanAgr",
       "65916846": "actions-user",
       "6004566": "ribadas-uvigo"
+    }
+  },
+  "https://github.com/SantiagoRR2004/Statistics-Exercises": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 16,
+    "userCommits": 15,
+    "languages": {
+      "R": 34403
+    },
+    "contributors": {
+      "198917613": "TomasCotos"
     }
   },
   "https://github.com/SantiagoRR2004/GOTY": {
@@ -1393,11 +1410,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5470,
-    "forks": 3238,
+    "stars": 5471,
+    "forks": 3237,
     "issues": 822,
     "userIssues": 1,
-    "pullRequests": 10784,
+    "pullRequests": 10785,
     "userPullRequests": 1,
     "commits": 28460,
     "userCommits": 0,
