@@ -24,7 +24,7 @@
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 368.1 kB | 0.46% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.15% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.06% |
-| [R](https://github.com/search?q=user:SantiagoRR2004+language:R) | 45.9 kB | 0.06% |
+| [R](https://github.com/search?q=user:SantiagoRR2004+language:R) | 46.8 kB | 0.06% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.05% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.05% |
 | [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 26.9 kB | 0.03% |
@@ -52,7 +52,7 @@
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 113 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 114 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
@@ -84,8 +84,8 @@
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [CIN-Malware](https://github.com/SantiagoRR2004/CIN-Malware) | 19 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 17 |
+| [Statistics-Exercises](https://github.com/SantiagoRR2004/Statistics-Exercises) | 17 |
 | [CIN-Biometry](https://github.com/SantiagoRR2004/CIN-Biometry) | 16 |
-| [Statistics-Exercises](https://github.com/SantiagoRR2004/Statistics-Exercises) | 15 |
 | [GOTY](https://github.com/SantiagoRR2004/GOTY) | 12 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 8 |
 | [Statistics-Football](https://github.com/SantiagoRR2004/Statistics-Football) | 8 |
@@ -102,7 +102,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3003 |
+| Total | 3006 |
 
 ## Collaborators
 
