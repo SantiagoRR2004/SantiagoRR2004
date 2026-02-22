@@ -52,7 +52,7 @@
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 114 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 115 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
@@ -102,7 +102,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3006 |
+| Total | 3007 |
 
 ## Collaborators
 
