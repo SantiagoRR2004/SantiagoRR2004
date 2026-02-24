@@ -52,10 +52,10 @@
     "userIssues": 0,
     "pullRequests": 5,
     "userPullRequests": 1,
-    "commits": 270,
-    "userCommits": 151,
+    "commits": 271,
+    "userCommits": 152,
     "languages": {
-      "JSON": 547495,
+      "JSON": 550713,
       "Python": 14701
     },
     "contributors": {
@@ -154,8 +154,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 116,
-    "userCommits": 116,
+    "commits": 117,
+    "userCommits": 117,
     "languages": {
       "Python": 21959
     },
@@ -293,6 +293,27 @@
       "19648816": "yeraidm"
     }
   },
+  "https://github.com/SantiagoRR2004/WSEM": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 143,
+    "userCommits": 74,
+    "languages": {
+      "Java": 78468,
+      "Turtle": 18238,
+      "SPARQL": 11649,
+      "Shell": 1267
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "66303056": "mfgavilanes"
+    }
+  },
   "https://github.com/SantiagoRR2004/English-IrregularVerbs": {
     "stars": 0,
     "forks": 0,
@@ -389,6 +410,26 @@
       "147416187": "JoyBoy-IA",
       "65916846": "actions-user",
       "114695520": "santipvz"
+    }
+  },
+  "https://github.com/SantiagoRR2004/RI": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 124,
+    "userCommits": 64,
+    "languages": {
+      "Jupyter Notebook": 450885,
+      "Python": 54934
+    },
+    "contributors": {
+      "127146145": "ErikFigueiral",
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "66303056": "mfgavilanes"
     }
   },
   "https://github.com/SantiagoRR2004/pythocron": {
@@ -1279,7 +1320,7 @@
   "https://github.com/hsahovic/poke-env": {
     "stars": 445,
     "forks": 135,
-    "issues": 264,
+    "issues": 265,
     "userIssues": 4,
     "pullRequests": 550,
     "userPullRequests": 2,
@@ -1410,8 +1451,8 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5476,
-    "forks": 3242,
+    "stars": 5477,
+    "forks": 3243,
     "issues": 822,
     "userIssues": 1,
     "pullRequests": 10786,
