@@ -102,7 +102,22 @@ if __name__ == "__main__":
 """
 
     for lang, byteCount in languages.items():
-        markDownTableLang += f"| [{lang}](https://github.com/search?q=user:{githubInfo.AUTHOR}+language:{lang}) | {formatBytes(byteCount)} | {byteCount / totalBytes:.2%} |\n"
+        urlLang = lang
+
+        # Check for spaces
+        if " " in urlLang:
+            urlLang = f'"{urlLang}"'
+
+        markDownTableLang += (
+            "| "
+            + f"[{lang}]"
+            + f"(https://github.com/search?q=user:{githubInfo.AUTHOR}+language:{urlLang})"
+            + " | "
+            + f"{formatBytes(byteCount)}"
+            + " | "
+            + f"{byteCount / totalBytes:.2%}"
+            + " |\n"
+        )
 
     # Add the total bytes
     markDownTableLang += (
