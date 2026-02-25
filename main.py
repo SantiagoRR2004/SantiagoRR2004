@@ -106,7 +106,7 @@ if __name__ == "__main__":
 
         # Check for spaces
         if " " in urlLang:
-            urlLang = f'"{urlLang}"'
+            urlLang = '"' + urlLang.replace(" ", "+") + '"'
 
         markDownTableLang += (
             "| "
