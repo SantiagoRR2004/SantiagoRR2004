@@ -17,12 +17,12 @@
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 66.7 MB | 83.79% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.1 MB | 6.39% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.1 MB | 6.40% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 3.1 MB | 3.93% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 3.56% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 537.8 kB | 0.66% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.55% |
-| [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:Jupyter Notebook) | 440.3 kB | 0.54% |
+| [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter Notebook") | 440.3 kB | 0.54% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.15% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.06% |
 | [R](https://github.com/search?q=user:SantiagoRR2004+language:R) | 46.8 kB | 0.06% |
@@ -54,10 +54,10 @@
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 119 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 117 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
-| [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
+| [Modules](https://github.com/SantiagoRR2004/Modules) | 112 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
@@ -107,7 +107,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3148 |
+| Total | 3151 |
 
 ## Collaborators
 

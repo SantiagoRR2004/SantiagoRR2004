@@ -131,6 +131,20 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 119,
+    "userCommits": 119,
+    "languages": {
+      "Python": 22224
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/MiiPlazaDecoder": {
     "stars": 1,
     "forks": 0,
@@ -146,20 +160,6 @@
     "contributors": {
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 117,
-    "userCommits": 117,
-    "languages": {
-      "Python": 21959
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/Agentes": {
     "stars": 0,
@@ -194,10 +194,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 138,
-    "userCommits": 111,
+    "commits": 139,
+    "userCommits": 112,
     "languages": {
-      "Python": 102928
+      "Python": 103534
     },
     "contributors": {
       "65916846": "actions-user"
@@ -1451,8 +1451,8 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5477,
-    "forks": 3243,
+    "stars": 5479,
+    "forks": 3245,
     "issues": 822,
     "userIssues": 1,
     "pullRequests": 10786,
