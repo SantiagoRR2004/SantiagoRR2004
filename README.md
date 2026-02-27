@@ -54,7 +54,7 @@
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 121 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 122 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 112 |
@@ -107,7 +107,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3153 |
+| Total | 3154 |
 
 ## Collaborators
 

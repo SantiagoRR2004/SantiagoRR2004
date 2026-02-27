@@ -138,8 +138,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 121,
-    "userCommits": 121,
+    "commits": 122,
+    "userCommits": 122,
     "languages": {
       "Python": 22247
     },
@@ -356,7 +356,7 @@
   },
   "https://github.com/SantiagoRR2004/VIAR": {
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 0,
@@ -676,7 +676,7 @@
   "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
     "stars": 44,
     "forks": 12,
-    "issues": 7,
+    "issues": 8,
     "userIssues": 6,
     "pullRequests": 7,
     "userPullRequests": 4,
@@ -1406,10 +1406,10 @@
     "userIssues": 1,
     "pullRequests": 580,
     "userPullRequests": 0,
-    "commits": 668,
+    "commits": 670,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 392655,
+      "TypeScript": 393308,
       "JavaScript": 20422,
       "HTML": 2632,
       "CSS": 1729
@@ -1451,11 +1451,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5481,
+    "stars": 5480,
     "forks": 3246,
     "issues": 822,
     "userIssues": 1,
-    "pullRequests": 10786,
+    "pullRequests": 10787,
     "userPullRequests": 1,
     "commits": 28462,
     "userCommits": 0,
