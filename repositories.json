@@ -52,10 +52,10 @@
     "userIssues": 0,
     "pullRequests": 5,
     "userPullRequests": 1,
-    "commits": 271,
-    "userCommits": 152,
+    "commits": 272,
+    "userCommits": 153,
     "languages": {
-      "JSON": 550713,
+      "JSON": 552872,
       "Python": 14701
     },
     "contributors": {
@@ -138,8 +138,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 125,
-    "userCommits": 125,
+    "commits": 126,
+    "userCommits": 126,
     "languages": {
       "Python": 22247
     },
@@ -677,7 +677,7 @@
     "stars": 44,
     "forks": 12,
     "issues": 8,
-    "userIssues": 6,
+    "userIssues": 7,
     "pullRequests": 7,
     "userPullRequests": 4,
     "commits": 58,
@@ -815,6 +815,23 @@
       "146563007": "AdanAgr",
       "65916846": "actions-user",
       "6004566": "ribadas-uvigo"
+    }
+  },
+  "https://github.com/SantiagoRR2004/Auria-Expansion": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 14,
+    "userCommits": 13,
+    "languages": {
+      "Python": 11697,
+      "Shell": 107
+    },
+    "contributors": {
+      "65916846": "actions-user"
     }
   },
   "https://github.com/SantiagoRR2004/GOTY": {
@@ -1322,7 +1339,7 @@
     "forks": 136,
     "issues": 265,
     "userIssues": 4,
-    "pullRequests": 550,
+    "pullRequests": 551,
     "userPullRequests": 2,
     "commits": 1277,
     "userCommits": 1,
@@ -1366,12 +1383,12 @@
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 43,
+    "pullRequests": 45,
     "userPullRequests": 0,
-    "commits": 147,
+    "commits": 150,
     "userCommits": 0,
     "languages": {
-      "Python": 24783,
+      "Python": 24870,
       "JavaScript": 1445
     },
     "contributors": {
@@ -1404,7 +1421,7 @@
     "forks": 40,
     "issues": 261,
     "userIssues": 1,
-    "pullRequests": 582,
+    "pullRequests": 586,
     "userPullRequests": 0,
     "commits": 690,
     "userCommits": 0,
@@ -1452,10 +1469,10 @@
   },
   "https://github.com/smogon/pokemon-showdown": {
     "stars": 5492,
-    "forks": 3252,
+    "forks": 3254,
     "issues": 823,
     "userIssues": 1,
-    "pullRequests": 10796,
+    "pullRequests": 10798,
     "userPullRequests": 1,
     "commits": 28476,
     "userCommits": 0,
