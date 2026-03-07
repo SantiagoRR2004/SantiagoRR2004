@@ -108,6 +108,20 @@
       "5877660": "dnolivieri"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 130,
+    "userCommits": 130,
+    "languages": {
+      "Python": 22247
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/GRIA-TestCreator": {
     "stars": 0,
     "forks": 2,
@@ -130,20 +144,6 @@
       "114695520": "santipvz",
       "116091929": "usbt0p"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 129,
-    "userCommits": 129,
-    "languages": {
-      "Python": 22247
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/MiiPlazaDecoder": {
     "stars": 1,
@@ -1353,11 +1353,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 449,
+    "stars": 450,
     "forks": 137,
     "issues": 265,
     "userIssues": 4,
-    "pullRequests": 560,
+    "pullRequests": 561,
     "userPullRequests": 2,
     "commits": 1277,
     "userCommits": 1,
@@ -1397,7 +1397,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 127,
+    "stars": 128,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
@@ -1437,9 +1437,9 @@
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 139,
     "forks": 40,
-    "issues": 262,
+    "issues": 264,
     "userIssues": 1,
-    "pullRequests": 586,
+    "pullRequests": 588,
     "userPullRequests": 0,
     "commits": 690,
     "userCommits": 0,
@@ -1486,11 +1486,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5498,
-    "forks": 3260,
-    "issues": 823,
+    "stars": 5499,
+    "forks": 3261,
+    "issues": 824,
     "userIssues": 1,
-    "pullRequests": 10804,
+    "pullRequests": 10809,
     "userPullRequests": 1,
     "commits": 28492,
     "userCommits": 0,
