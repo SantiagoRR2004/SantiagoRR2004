@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 66.7 MB | 83.66% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.1 MB | 6.45% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 66.7 MB | 83.64% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.2 MB | 6.47% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 3.1 MB | 3.92% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 3.56% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 539.9 kB | 0.66% |
@@ -54,7 +54,7 @@
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 153 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 132 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 133 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
@@ -110,7 +110,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3258 |
+| Total | 3259 |
 
 ## Collaborators
 
