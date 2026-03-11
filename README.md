@@ -54,14 +54,14 @@
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 153 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 133 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 134 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
-| [Manga](https://github.com/SantiagoRR2004/Manga) | 104 |
+| [Manga](https://github.com/SantiagoRR2004/Manga) | 107 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
-| [Modules](https://github.com/SantiagoRR2004/Modules) | 87 |
+| [Modules](https://github.com/SantiagoRR2004/Modules) | 88 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [PLN](https://github.com/SantiagoRR2004/PLN) | 74 |
@@ -110,7 +110,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3259 |
+| Total | 3264 |
 
 ## Collaborators
 
