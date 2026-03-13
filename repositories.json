@@ -115,8 +115,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 135,
-    "userCommits": 135,
+    "commits": 136,
+    "userCommits": 136,
     "languages": {
       "Python": 22247
     },
@@ -1357,7 +1357,7 @@
     "forks": 138,
     "issues": 269,
     "userIssues": 4,
-    "pullRequests": 567,
+    "pullRequests": 569,
     "userPullRequests": 2,
     "commits": 1295,
     "userCommits": 1,
@@ -1437,11 +1437,11 @@
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 139,
     "forks": 40,
-    "issues": 264,
+    "issues": 265,
     "userIssues": 1,
-    "pullRequests": 593,
+    "pullRequests": 595,
     "userPullRequests": 0,
-    "commits": 695,
+    "commits": 696,
     "userCommits": 0,
     "languages": {
       "TypeScript": 442235,
@@ -1486,11 +1486,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5510,
-    "forks": 3270,
+    "stars": 5512,
+    "forks": 3271,
     "issues": 824,
     "userIssues": 1,
-    "pullRequests": 10822,
+    "pullRequests": 10823,
     "userPullRequests": 1,
     "commits": 28506,
     "userCommits": 0,
