@@ -17,7 +17,7 @@
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 66.7 MB | 83.64% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.2 MB | 6.47% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.2 MB | 6.48% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 3.1 MB | 3.92% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 3.56% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 539.9 kB | 0.66% |
@@ -30,7 +30,7 @@
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.05% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.05% |
 | [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 26.9 kB | 0.03% |
-| [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 25.6 kB | 0.03% |
+| [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 26.1 kB | 0.03% |
 | [TeX](https://github.com/search?q=user:SantiagoRR2004+language:TeX) | 23.3 kB | 0.03% |
 | [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.02% |
 | [Turtle](https://github.com/search?q=user:SantiagoRR2004+language:Turtle) | 17.8 kB | 0.02% |
@@ -54,7 +54,7 @@
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 153 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 139 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
@@ -110,7 +110,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3269 |
+| Total | 3270 |
 
 ## Collaborators
 
