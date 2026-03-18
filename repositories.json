@@ -90,6 +90,20 @@
       "63560596": "labbenchstudios"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 141,
+    "userCommits": 141,
+    "languages": {
+      "Python": 22247
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/APAU_BIO": {
     "stars": 0,
     "forks": 0,
@@ -107,20 +121,6 @@
       "65916846": "actions-user",
       "5877660": "dnolivieri"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 140,
-    "userCommits": 140,
-    "languages": {
-      "Python": 22247
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/GRIA-TestCreator": {
     "stars": 0,
@@ -194,11 +194,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 108,
-    "userCommits": 107,
+    "commits": 109,
+    "userCommits": 108,
     "languages": {
       "CSV": 71617,
-      "Python": 40603
+      "Python": 40662
     },
     "contributors": {
       "65916846": "actions-user"
@@ -247,10 +247,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 102,
-    "userCommits": 88,
+    "commits": 103,
+    "userCommits": 89,
     "languages": {
-      "Python": 86808
+      "Python": 87050
     },
     "contributors": {
       "65916846": "actions-user"
@@ -1001,10 +1001,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 28442,
+    "commits": 28443,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 34757673,
+      "TypeScript": 34757723,
       "JavaScript": 1572854,
       "Python": 1109,
       "HTML": 1063,
@@ -1353,16 +1353,16 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 453,
+    "stars": 454,
     "forks": 138,
     "issues": 271,
     "userIssues": 5,
-    "pullRequests": 572,
+    "pullRequests": 573,
     "userPullRequests": 2,
-    "commits": 1300,
+    "commits": 1303,
     "userCommits": 1,
     "languages": {
-      "Python": 742602,
+      "Python": 743194,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1396,107 +1396,18 @@
       "4717005": "uduse"
     }
   },
-  "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 128,
-    "forks": 12,
-    "issues": 9,
-    "userIssues": 1,
-    "pullRequests": 46,
-    "userPullRequests": 0,
-    "commits": 154,
-    "userCommits": 0,
-    "languages": {
-      "Python": 24870,
-      "JavaScript": 1445
-    },
-    "contributors": {
-      "48692915": "Polyphian",
-      "62150513": "abaker93",
-      "681982": "bitmaybewise",
-      "93532238": "ch1coon",
-      "53957795": "chase-manning",
-      "65452054": "nathanrboyer"
-    }
-  },
-  "https://github.com/esei-si-dagss/tasador-24": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 1,
-    "userPullRequests": 1,
-    "commits": 10,
-    "userCommits": 0,
-    "languages": {
-      "Python": 18084
-    },
-    "contributors": {
-      "6004566": "ribadas-uvigo"
-    }
-  },
-  "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 139,
-    "forks": 39,
-    "issues": 265,
-    "userIssues": 1,
-    "pullRequests": 599,
-    "userPullRequests": 0,
-    "commits": 704,
-    "userCommits": 0,
-    "languages": {
-      "TypeScript": 447192,
-      "JavaScript": 20422,
-      "HTML": 2632,
-      "CSS": 1729
-    },
-    "contributors": {
-      "15808247": "1vcian",
-      "128099321": "Bilhalv",
-      "77793898": "CorentinGouil",
-      "23654548": "Fischa7",
-      "85681227": "JS2K8",
-      "173207727": "LandDar",
-      "18427765": "MarkoOleksiyenko",
-      "201633802": "PlayInKetchup",
-      "130557846": "RubenJavierBachoAlarcon",
-      "4228398": "SpyderHunter03",
-      "38354616": "StephenAloche",
-      "88334930": "WickiRiama",
-      "15209405": "afu-dev",
-      "18624067": "amoreaulemay",
-      "94017614": "aredmondd",
-      "33298582": "dahbar",
-      "49699333": "dependabot[bot]",
-      "161369871": "google-labs-jules[bot]",
-      "10010793": "graylewis",
-      "29665730": "greg19",
-      "45013509": "gregormaclaine",
-      "368592": "javijec",
-      "73377131": "jejnaj",
-      "418984": "marcelpanse",
-      "68415033": "mkslzk",
-      "34892045": "mpierrez",
-      "25161825": "msilvestro",
-      "17156492": "nicolasfeyer",
-      "114663850": "rexwithluv",
-      "54109737": "robertfoster550",
-      "38170967": "sanshigo345",
-      "153860469": "velinakennedy",
-      "180430210": "vmdumont93"
-    }
-  },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5528,
-    "forks": 3277,
+    "stars": 5529,
+    "forks": 3278,
     "issues": 824,
     "userIssues": 1,
-    "pullRequests": 10831,
+    "pullRequests": 10832,
     "userPullRequests": 1,
-    "commits": 28521,
-    "userCommits": 0,
+    "commits": 28528,
+    "userCommits": 1,
     "languages": {
-      "TypeScript": 34697313,
-      "JavaScript": 1573844,
+      "TypeScript": 34727184,
+      "JavaScript": 1574003,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1675,6 +1586,7 @@
       "7889474": "SolarisFox",
       "179955371": "Spammernoob69",
       "19758381": "Spandamn",
+      "165436526": "Sunny-Krys",
       "4271522": "TalkTakesTime",
       "95596011": "Tarrembeau",
       "142454028": "TeaGuzzler",
@@ -1842,6 +1754,95 @@
       "47942311": "yghdj",
       "351023": "yuzeh",
       "74513850": "zgeorgecsat"
+    }
+  },
+  "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
+    "stars": 128,
+    "forks": 12,
+    "issues": 9,
+    "userIssues": 1,
+    "pullRequests": 46,
+    "userPullRequests": 0,
+    "commits": 154,
+    "userCommits": 0,
+    "languages": {
+      "Python": 24870,
+      "JavaScript": 1445
+    },
+    "contributors": {
+      "48692915": "Polyphian",
+      "62150513": "abaker93",
+      "681982": "bitmaybewise",
+      "93532238": "ch1coon",
+      "53957795": "chase-manning",
+      "65452054": "nathanrboyer"
+    }
+  },
+  "https://github.com/esei-si-dagss/tasador-24": {
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 1,
+    "userPullRequests": 1,
+    "commits": 10,
+    "userCommits": 0,
+    "languages": {
+      "Python": 18084
+    },
+    "contributors": {
+      "6004566": "ribadas-uvigo"
+    }
+  },
+  "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
+    "stars": 139,
+    "forks": 39,
+    "issues": 265,
+    "userIssues": 1,
+    "pullRequests": 599,
+    "userPullRequests": 0,
+    "commits": 704,
+    "userCommits": 0,
+    "languages": {
+      "TypeScript": 447192,
+      "JavaScript": 20422,
+      "HTML": 2632,
+      "CSS": 1729
+    },
+    "contributors": {
+      "15808247": "1vcian",
+      "128099321": "Bilhalv",
+      "77793898": "CorentinGouil",
+      "23654548": "Fischa7",
+      "85681227": "JS2K8",
+      "173207727": "LandDar",
+      "18427765": "MarkoOleksiyenko",
+      "201633802": "PlayInKetchup",
+      "130557846": "RubenJavierBachoAlarcon",
+      "4228398": "SpyderHunter03",
+      "38354616": "StephenAloche",
+      "88334930": "WickiRiama",
+      "15209405": "afu-dev",
+      "18624067": "amoreaulemay",
+      "94017614": "aredmondd",
+      "33298582": "dahbar",
+      "49699333": "dependabot[bot]",
+      "161369871": "google-labs-jules[bot]",
+      "10010793": "graylewis",
+      "29665730": "greg19",
+      "45013509": "gregormaclaine",
+      "368592": "javijec",
+      "73377131": "jejnaj",
+      "418984": "marcelpanse",
+      "68415033": "mkslzk",
+      "34892045": "mpierrez",
+      "25161825": "msilvestro",
+      "17156492": "nicolasfeyer",
+      "114663850": "rexwithluv",
+      "54109737": "robertfoster550",
+      "38170967": "sanshigo345",
+      "153860469": "velinakennedy",
+      "180430210": "vmdumont93"
     }
   },
   "https://github.com/waveform80/pisense": {
