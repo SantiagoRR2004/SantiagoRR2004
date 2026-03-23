@@ -18,8 +18,8 @@
 |:----------|:----------:|----------:|
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 33.5 MB | 74.37% |
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.2 MB | 11.47% |
-| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.30% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.61% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.29% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.62% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 539.9 kB | 1.17% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.96% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.95% |
@@ -52,7 +52,7 @@
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 153 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 145 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 146 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
@@ -109,7 +109,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3277 |
+| Total | 3278 |
 
 ## Collaborators
 
