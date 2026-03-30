@@ -79,8 +79,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 152,
-    "userCommits": 152,
+    "commits": 153,
+    "userCommits": 153,
     "languages": {
       "Python": 22247
     },
@@ -697,7 +697,7 @@
     "userIssues": 7,
     "pullRequests": 7,
     "userPullRequests": 4,
-    "commits": 61,
+    "commits": 62,
     "userCommits": 26,
     "languages": {
       "Python": 30291
@@ -997,14 +997,14 @@
   "https://github.com/hsahovic/poke-env": {
     "stars": 461,
     "forks": 141,
-    "issues": 272,
+    "issues": 273,
     "userIssues": 5,
-    "pullRequests": 581,
+    "pullRequests": 583,
     "userPullRequests": 2,
-    "commits": 1309,
+    "commits": 1315,
     "userCommits": 1,
     "languages": {
-      "Python": 758316,
+      "Python": 756811,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1039,16 +1039,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5555,
+    "stars": 5557,
     "forks": 3288,
     "issues": 826,
     "userIssues": 1,
-    "pullRequests": 10868,
+    "pullRequests": 10873,
     "userPullRequests": 1,
-    "commits": 28541,
+    "commits": 28542,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 34687277,
+      "TypeScript": 34687095,
       "JavaScript": 1579773,
       "Python": 1109,
       "HTML": 1063,
@@ -1436,9 +1436,9 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 141,
+    "stars": 142,
     "forks": 39,
-    "issues": 265,
+    "issues": 266,
     "userIssues": 1,
     "pullRequests": 599,
     "userPullRequests": 0,
