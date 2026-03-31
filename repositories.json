@@ -45,6 +45,20 @@
       "113910598": "rxbxrtx"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 154,
+    "userCommits": 154,
+    "languages": {
+      "Python": 22247
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/GRIA-Questions": {
     "stars": 0,
     "forks": 1,
@@ -71,20 +85,6 @@
       "148789530": "tomasrial46",
       "116091929": "usbt0p"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 153,
-    "userCommits": 153,
-    "languages": {
-      "Python": 22247
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/PIC-book-exercise-docs": {
     "stars": 0,
@@ -996,15 +996,15 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 461,
-    "forks": 141,
-    "issues": 273,
+    "forks": 142,
+    "issues": 274,
     "userIssues": 5,
-    "pullRequests": 583,
+    "pullRequests": 586,
     "userPullRequests": 2,
-    "commits": 1315,
+    "commits": 1318,
     "userCommits": 1,
     "languages": {
-      "Python": 756811,
+      "Python": 746770,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1039,11 +1039,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5557,
-    "forks": 3288,
-    "issues": 826,
+    "stars": 5559,
+    "forks": 3293,
+    "issues": 827,
     "userIssues": 1,
-    "pullRequests": 10873,
+    "pullRequests": 10878,
     "userPullRequests": 1,
     "commits": 28542,
     "userCommits": 1,
@@ -1403,9 +1403,9 @@
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 50,
+    "pullRequests": 51,
     "userPullRequests": 0,
-    "commits": 166,
+    "commits": 168,
     "userCommits": 0,
     "languages": {
       "Python": 37510
