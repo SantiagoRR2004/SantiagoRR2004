@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 158,
-    "userCommits": 158,
+    "commits": 159,
+    "userCommits": 159,
     "languages": {
       "Python": 22247
     },
@@ -996,15 +996,15 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 464,
-    "forks": 143,
-    "issues": 274,
+    "forks": 144,
+    "issues": 275,
     "userIssues": 5,
-    "pullRequests": 590,
+    "pullRequests": 594,
     "userPullRequests": 2,
-    "commits": 1320,
+    "commits": 1332,
     "userCommits": 1,
     "languages": {
-      "Python": 746770,
+      "Python": 750469,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1015,6 +1015,7 @@
       "9001941": "Benjamin-Etheredge",
       "13490018": "BrunoMNDantas",
       "106555015": "DanieleDataMasters",
+      "91150060": "EhteshamSid",
       "82184604": "MatteoH2O1999",
       "28374593": "TVFLabs",
       "97079030": "VolundrAI",
@@ -1039,11 +1040,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5561,
-    "forks": 3294,
+    "stars": 5568,
+    "forks": 3300,
     "issues": 827,
     "userIssues": 1,
-    "pullRequests": 10895,
+    "pullRequests": 10902,
     "userPullRequests": 1,
     "commits": 28570,
     "userCommits": 1,
@@ -1437,10 +1438,10 @@
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 144,
-    "forks": 40,
-    "issues": 266,
+    "forks": 41,
+    "issues": 267,
     "userIssues": 1,
-    "pullRequests": 601,
+    "pullRequests": 602,
     "userPullRequests": 0,
     "commits": 707,
     "userCommits": 0,
