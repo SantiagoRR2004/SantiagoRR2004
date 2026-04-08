@@ -16,9 +16,9 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 33.8 MB | 73.33% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.78% |
-| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.15% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 33.8 MB | 73.32% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.79% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.14% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.56% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 550.1 kB | 1.16% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.94% |
@@ -51,7 +51,7 @@
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 161 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 162 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 155 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
@@ -101,16 +101,16 @@
 | [Statistics-NaiveBayes](https://github.com/SantiagoRR2004/Statistics-NaiveBayes) | 7 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 6 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
+| [OurZoroark](https://github.com/SantiagoRR2004/OurZoroark) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 3 |
-| [OurZoroark](https://github.com/SantiagoRR2004/OurZoroark) | 1 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
 | [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) | 1 |
 | [chase-manning/pokemon-tcg-pocket-cards](https://github.com/chase-manning/pokemon-tcg-pocket-cards) | 0 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3296 |
+| Total | 3299 |
 
 ## Collaborators
 
