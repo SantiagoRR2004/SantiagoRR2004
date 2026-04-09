@@ -51,7 +51,7 @@
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 162 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 163 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 155 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
@@ -101,7 +101,7 @@
 | [Statistics-NaiveBayes](https://github.com/SantiagoRR2004/Statistics-NaiveBayes) | 7 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 6 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
-| [OurZoroark](https://github.com/SantiagoRR2004/OurZoroark) | 3 |
+| [OurZoroark](https://github.com/SantiagoRR2004/OurZoroark) | 4 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 3 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3299 |
+| Total | 3301 |
 
 ## Collaborators
 
