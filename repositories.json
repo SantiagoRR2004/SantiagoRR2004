@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 163,
-    "userCommits": 163,
+    "commits": 164,
+    "userCommits": 164,
     "languages": {
       "Python": 22247
     },
@@ -691,7 +691,7 @@
     }
   },
   "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
-    "stars": 44,
+    "stars": 45,
     "forks": 12,
     "issues": 8,
     "userIssues": 7,
@@ -963,51 +963,6 @@
       "65916846": "actions-user"
     }
   },
-  "https://github.com/SantiagoRR2004/OurZoroark": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 1337,
-    "userCommits": 4,
-    "languages": {
-      "Python": 756409,
-      "HTML": 5603,
-      "Shell": 1514
-    },
-    "contributors": {
-      "58889866": "AFumis",
-      "10923695": "AoifeHughes",
-      "15002448": "BaiqingL",
-      "9001941": "Benjamin-Etheredge",
-      "13490018": "BrunoMNDantas",
-      "106555015": "DanieleDataMasters",
-      "91150060": "EhteshamSid",
-      "82184604": "MatteoH2O1999",
-      "28374593": "TVFLabs",
-      "97079030": "VolundrAI",
-      "17132214": "acxz",
-      "10437649": "akashsara",
-      "50247523": "cameronangliss",
-      "8413475": "caymansimpson",
-      "11090059": "darrenswhite",
-      "27856297": "dependabot-preview[bot]",
-      "49699333": "dependabot[bot]",
-      "38857533": "dmizr",
-      "41898282": "github-actions[bot]",
-      "66328126": "gstvschlz",
-      "25432355": "hsahovic",
-      "140982580": "jkim2729",
-      "33169711": "kodecreer",
-      "101541421": "lcgabaldon",
-      "25304649": "pmariglia",
-      "30420527": "shrianshChari",
-      "38109359": "szymonWojdat",
-      "4717005": "uduse"
-    }
-  },
   "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
     "stars": 0,
     "forks": 0,
@@ -1040,16 +995,16 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 464,
-    "forks": 145,
+    "stars": 465,
+    "forks": 144,
     "issues": 276,
     "userIssues": 5,
     "pullRequests": 598,
     "userPullRequests": 4,
-    "commits": 1335,
-    "userCommits": 1,
+    "commits": 1336,
+    "userCommits": 2,
     "languages": {
-      "Python": 752380,
+      "Python": 757761,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1085,11 +1040,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5584,
-    "forks": 3306,
+    "stars": 5585,
+    "forks": 3308,
     "issues": 829,
     "userIssues": 1,
-    "pullRequests": 10905,
+    "pullRequests": 10907,
     "userPullRequests": 1,
     "commits": 28587,
     "userCommits": 1,
@@ -1445,7 +1400,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 130,
+    "stars": 131,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
@@ -1482,7 +1437,7 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 144,
+    "stars": 145,
     "forks": 41,
     "issues": 268,
     "userIssues": 1,
