@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.2 MB | 73.53% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.70% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.2 MB | 73.52% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.72% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.09% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.53% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 550.1 kB | 1.15% |
@@ -51,12 +51,12 @@
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 166 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 167 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 155 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 129 |
-| [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 118 |
+| [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 119 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Manga](https://github.com/SantiagoRR2004/Manga) | 108 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
@@ -101,7 +101,7 @@
 | [Statistics-NaiveBayes](https://github.com/SantiagoRR2004/Statistics-NaiveBayes) | 7 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 6 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
-| [Learnset](https://github.com/SantiagoRR2004/Learnset) | 3 |
+| [Learnset](https://github.com/SantiagoRR2004/Learnset) | 4 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [rubenfb23/AutoPaperwork](https://github.com/rubenfb23/AutoPaperwork) | 3 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 2 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3304 |
+| Total | 3307 |
 
 ## Collaborators
 

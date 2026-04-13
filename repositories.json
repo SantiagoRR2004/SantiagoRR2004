@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 166,
-    "userCommits": 166,
+    "commits": 167,
+    "userCommits": 167,
     "languages": {
       "Python": 22247
     },
@@ -152,10 +152,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 133,
-    "userCommits": 118,
+    "commits": 134,
+    "userCommits": 119,
     "languages": {
-      "Python": 64648
+      "Python": 69467
     },
     "contributors": {
       "65916846": "actions-user"
@@ -697,7 +697,7 @@
     "userIssues": 7,
     "pullRequests": 7,
     "userPullRequests": 4,
-    "commits": 62,
+    "commits": 63,
     "userCommits": 26,
     "languages": {
       "Python": 30291
@@ -970,10 +970,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 1337,
-    "userCommits": 3,
+    "commits": 1338,
+    "userCommits": 4,
     "languages": {
-      "Python": 763029,
+      "Python": 764245,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1040,16 +1040,16 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 466,
+    "stars": 467,
     "forks": 145,
     "issues": 276,
     "userIssues": 5,
-    "pullRequests": 599,
+    "pullRequests": 600,
     "userPullRequests": 5,
-    "commits": 1336,
+    "commits": 1337,
     "userCommits": 2,
     "languages": {
-      "Python": 757761,
+      "Python": 759379,
       "HTML": 5603,
       "Shell": 1514
     },
@@ -1085,16 +1085,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5594,
-    "forks": 3312,
-    "issues": 831,
+    "stars": 5595,
+    "forks": 3315,
+    "issues": 832,
     "userIssues": 1,
-    "pullRequests": 10921,
+    "pullRequests": 10933,
     "userPullRequests": 1,
-    "commits": 28606,
+    "commits": 28611,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 35454322,
+      "TypeScript": 35457468,
       "JavaScript": 1591399,
       "Python": 1109,
       "HTML": 1063,
@@ -1445,7 +1445,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 131,
+    "stars": 130,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
@@ -1483,10 +1483,10 @@
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 146,
-    "forks": 41,
+    "forks": 43,
     "issues": 268,
     "userIssues": 1,
-    "pullRequests": 603,
+    "pullRequests": 606,
     "userPullRequests": 0,
     "commits": 707,
     "userCommits": 0,
