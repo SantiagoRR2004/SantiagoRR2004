@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 168,
-    "userCommits": 168,
+    "commits": 169,
+    "userCommits": 169,
     "languages": {
       "Python": 22247
     },
@@ -917,6 +917,51 @@
       "2480261": "sdocio"
     }
   },
+  "https://github.com/SantiagoRR2004/Learnset": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 1341,
+    "userCommits": 7,
+    "languages": {
+      "Python": 766265,
+      "HTML": 5603,
+      "Shell": 1514
+    },
+    "contributors": {
+      "58889866": "AFumis",
+      "10923695": "AoifeHughes",
+      "15002448": "BaiqingL",
+      "9001941": "Benjamin-Etheredge",
+      "13490018": "BrunoMNDantas",
+      "106555015": "DanieleDataMasters",
+      "91150060": "EhteshamSid",
+      "82184604": "MatteoH2O1999",
+      "28374593": "TVFLabs",
+      "97079030": "VolundrAI",
+      "17132214": "acxz",
+      "10437649": "akashsara",
+      "50247523": "cameronangliss",
+      "8413475": "caymansimpson",
+      "11090059": "darrenswhite",
+      "27856297": "dependabot-preview[bot]",
+      "49699333": "dependabot[bot]",
+      "38857533": "dmizr",
+      "41898282": "github-actions[bot]",
+      "66328126": "gstvschlz",
+      "25432355": "hsahovic",
+      "140982580": "jkim2729",
+      "33169711": "kodecreer",
+      "101541421": "lcgabaldon",
+      "25304649": "pmariglia",
+      "30420527": "shrianshChari",
+      "38109359": "szymonWojdat",
+      "4717005": "uduse"
+    }
+  },
   "https://github.com/SantiagoRR2004/Statistics-NaiveBayes": {
     "stars": 0,
     "forks": 0,
@@ -963,51 +1008,6 @@
       "65916846": "actions-user"
     }
   },
-  "https://github.com/SantiagoRR2004/Learnset": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 1338,
-    "userCommits": 4,
-    "languages": {
-      "Python": 764245,
-      "HTML": 5603,
-      "Shell": 1514
-    },
-    "contributors": {
-      "58889866": "AFumis",
-      "10923695": "AoifeHughes",
-      "15002448": "BaiqingL",
-      "9001941": "Benjamin-Etheredge",
-      "13490018": "BrunoMNDantas",
-      "106555015": "DanieleDataMasters",
-      "91150060": "EhteshamSid",
-      "82184604": "MatteoH2O1999",
-      "28374593": "TVFLabs",
-      "97079030": "VolundrAI",
-      "17132214": "acxz",
-      "10437649": "akashsara",
-      "50247523": "cameronangliss",
-      "8413475": "caymansimpson",
-      "11090059": "darrenswhite",
-      "27856297": "dependabot-preview[bot]",
-      "49699333": "dependabot[bot]",
-      "38857533": "dmizr",
-      "41898282": "github-actions[bot]",
-      "66328126": "gstvschlz",
-      "25432355": "hsahovic",
-      "140982580": "jkim2729",
-      "33169711": "kodecreer",
-      "101541421": "lcgabaldon",
-      "25304649": "pmariglia",
-      "30420527": "shrianshChari",
-      "38109359": "szymonWojdat",
-      "4717005": "uduse"
-    }
-  },
   "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
     "stars": 0,
     "forks": 0,
@@ -1040,13 +1040,13 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 468,
+    "stars": 469,
     "forks": 145,
-    "issues": 276,
+    "issues": 277,
     "userIssues": 5,
-    "pullRequests": 603,
+    "pullRequests": 604,
     "userPullRequests": 5,
-    "commits": 1344,
+    "commits": 1345,
     "userCommits": 2,
     "languages": {
       "Python": 761410,
@@ -1085,16 +1085,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5601,
-    "forks": 3315,
+    "stars": 5604,
+    "forks": 3317,
     "issues": 832,
     "userIssues": 1,
-    "pullRequests": 10938,
+    "pullRequests": 10942,
     "userPullRequests": 1,
-    "commits": 28614,
+    "commits": 28625,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 35457443,
+      "TypeScript": 35470592,
       "JavaScript": 1591405,
       "Python": 1109,
       "HTML": 1063,
@@ -1446,7 +1446,7 @@
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
     "stars": 130,
-    "forks": 12,
+    "forks": 13,
     "issues": 9,
     "userIssues": 1,
     "pullRequests": 52,
@@ -1482,17 +1482,17 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 146,
+    "stars": 147,
     "forks": 43,
-    "issues": 268,
+    "issues": 269,
     "userIssues": 1,
-    "pullRequests": 608,
+    "pullRequests": 610,
     "userPullRequests": 0,
-    "commits": 712,
+    "commits": 715,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 440164,
-      "JavaScript": 20422,
+      "TypeScript": 445112,
+      "JavaScript": 20578,
       "HTML": 2632,
       "CSS": 1729
     },
@@ -1514,6 +1514,7 @@
       "94017614": "aredmondd",
       "33298582": "dahbar",
       "49699333": "dependabot[bot]",
+      "242843530": "diegomarnie",
       "161369871": "google-labs-jules[bot]",
       "10010793": "graylewis",
       "29665730": "greg19",
