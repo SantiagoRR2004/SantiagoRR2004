@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 171,
-    "userCommits": 171,
+    "commits": 172,
+    "userCommits": 172,
     "languages": {
       "Python": 22247
     },
@@ -1040,16 +1040,16 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 469,
-    "forks": 145,
-    "issues": 277,
+    "stars": 472,
+    "forks": 146,
+    "issues": 278,
     "userIssues": 5,
-    "pullRequests": 605,
+    "pullRequests": 606,
     "userPullRequests": 5,
-    "commits": 1346,
+    "commits": 1347,
     "userCommits": 2,
     "languages": {
-      "Python": 761410,
+      "Python": 761559,
       "HTML": 5603,
       "Shell": 1554
     },
@@ -1063,6 +1063,7 @@
       "91150060": "EhteshamSid",
       "82184604": "MatteoH2O1999",
       "28374593": "TVFLabs",
+      "5883769": "TheRoyalTnetennba",
       "97079030": "VolundrAI",
       "17132214": "acxz",
       "10437649": "akashsara",
@@ -1086,15 +1087,15 @@
   },
   "https://github.com/smogon/pokemon-showdown": {
     "stars": 5608,
-    "forks": 3325,
-    "issues": 832,
+    "forks": 3324,
+    "issues": 833,
     "userIssues": 1,
-    "pullRequests": 10955,
+    "pullRequests": 10958,
     "userPullRequests": 1,
-    "commits": 28642,
+    "commits": 28646,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 35873493,
+      "TypeScript": 35874485,
       "JavaScript": 1591405,
       "Python": 1109,
       "HTML": 1063,
