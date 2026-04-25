@@ -51,7 +51,7 @@
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 178 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 179 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 156 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3323 |
+| Total | 3324 |
 
 ## Collaborators
 
