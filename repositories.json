@@ -5,7 +5,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 44,
-    "userPullRequests": 44,
+    "userPullRequests": 17,
     "commits": 357,
     "userCommits": 333,
     "languages": {
@@ -52,8 +52,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 181,
-    "userCommits": 181,
+    "commits": 182,
+    "userCommits": 182,
     "languages": {
       "Python": 22247
     },
@@ -65,7 +65,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 5,
-    "userPullRequests": 1,
+    "userPullRequests": 0,
     "commits": 275,
     "userCommits": 156,
     "languages": {
@@ -92,7 +92,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 24,
-    "userPullRequests": 24,
+    "userPullRequests": 19,
     "commits": 153,
     "userCommits": 141,
     "languages": {
@@ -280,7 +280,7 @@
     "issues": 41,
     "userIssues": 41,
     "pullRequests": 13,
-    "userPullRequests": 13,
+    "userPullRequests": 10,
     "commits": 121,
     "userCommits": 82,
     "languages": {
@@ -696,7 +696,7 @@
     "issues": 8,
     "userIssues": 7,
     "pullRequests": 7,
-    "userPullRequests": 4,
+    "userPullRequests": 1,
     "commits": 64,
     "userCommits": 26,
     "languages": {
@@ -1014,7 +1014,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 3,
-    "userPullRequests": 1,
+    "userPullRequests": 0,
     "commits": 11,
     "userCommits": 3,
     "languages": {},
@@ -1028,7 +1028,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 4,
-    "userPullRequests": 2,
+    "userPullRequests": 0,
     "commits": 29,
     "userCommits": 3,
     "languages": {
@@ -1045,7 +1045,7 @@
     "issues": 281,
     "userIssues": 5,
     "pullRequests": 610,
-    "userPullRequests": 5,
+    "userPullRequests": 3,
     "commits": 1350,
     "userCommits": 2,
     "languages": {
@@ -1087,10 +1087,10 @@
   },
   "https://github.com/smogon/pokemon-showdown": {
     "stars": 5642,
-    "forks": 3340,
+    "forks": 3341,
     "issues": 835,
     "userIssues": 1,
-    "pullRequests": 10986,
+    "pullRequests": 10987,
     "userPullRequests": 1,
     "commits": 28674,
     "userCommits": 1,
@@ -1467,28 +1467,12 @@
       "65452054": "nathanrboyer"
     }
   },
-  "https://github.com/esei-si-dagss/tasador-24": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 1,
-    "userPullRequests": 1,
-    "commits": 10,
-    "userCommits": 0,
-    "languages": {
-      "Python": 18084
-    },
-    "contributors": {
-      "6004566": "ribadas-uvigo"
-    }
-  },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 147,
     "forks": 45,
     "issues": 271,
     "userIssues": 1,
-    "pullRequests": 616,
+    "pullRequests": 620,
     "userPullRequests": 0,
     "commits": 725,
     "userCommits": 0,
