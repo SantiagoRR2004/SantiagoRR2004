@@ -6,10 +6,10 @@
     "userIssues": 0,
     "pullRequests": 44,
     "userPullRequests": 17,
-    "commits": 357,
-    "userCommits": 333,
+    "commits": 358,
+    "userCommits": 334,
     "languages": {
-      "Python": 61423,
+      "Python": 67775,
       "C++": 28587
     },
     "contributors": {
@@ -17,6 +17,20 @@
       "65916846": "actions-user",
       "116091929": "usbt0p"
     }
+  },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 183,
+    "userCommits": 183,
+    "languages": {
+      "Python": 22247
+    },
+    "contributors": {}
   },
   "https://github.com/LucachuTW/IS-Grupo301": {
     "stars": 0,
@@ -44,20 +58,6 @@
       "150954220": "luciaavivero",
       "113910598": "rxbxrtx"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 182,
-    "userCommits": 182,
-    "languages": {
-      "Python": 22247
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/GRIA-Questions": {
     "stars": 0,
@@ -1041,15 +1041,15 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 475,
-    "forks": 147,
-    "issues": 281,
+    "forks": 148,
+    "issues": 282,
     "userIssues": 5,
-    "pullRequests": 610,
+    "pullRequests": 611,
     "userPullRequests": 3,
-    "commits": 1350,
+    "commits": 1351,
     "userCommits": 2,
     "languages": {
-      "Python": 761654,
+      "Python": 759925,
       "HTML": 5603,
       "Shell": 1554
     },
@@ -1086,16 +1086,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5642,
-    "forks": 3341,
+    "stars": 5648,
+    "forks": 3348,
     "issues": 835,
     "userIssues": 1,
-    "pullRequests": 10987,
+    "pullRequests": 10990,
     "userPullRequests": 1,
-    "commits": 28674,
+    "commits": 28676,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 35885299,
+      "TypeScript": 35885326,
       "JavaScript": 1592895,
       "Python": 1109,
       "HTML": 1063,
@@ -1447,7 +1447,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 132,
+    "stars": 133,
     "forks": 14,
     "issues": 9,
     "userIssues": 1,
@@ -1470,14 +1470,14 @@
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 147,
     "forks": 45,
-    "issues": 271,
+    "issues": 273,
     "userIssues": 1,
-    "pullRequests": 620,
+    "pullRequests": 621,
     "userPullRequests": 0,
-    "commits": 725,
+    "commits": 731,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 447510,
+      "TypeScript": 448151,
       "JavaScript": 20587,
       "HTML": 2632,
       "CSS": 1729
