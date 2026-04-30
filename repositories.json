@@ -5,7 +5,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 44,
-    "userPullRequests": 17,
+    "userPullRequests": 44,
     "commits": 358,
     "userCommits": 334,
     "languages": {
@@ -25,8 +25,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 183,
-    "userCommits": 183,
+    "commits": 184,
+    "userCommits": 184,
     "languages": {
       "Python": 22247
     },
@@ -65,7 +65,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 5,
-    "userPullRequests": 0,
+    "userPullRequests": 1,
     "commits": 275,
     "userCommits": 156,
     "languages": {
@@ -92,7 +92,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 24,
-    "userPullRequests": 19,
+    "userPullRequests": 24,
     "commits": 153,
     "userCommits": 141,
     "languages": {
@@ -280,7 +280,7 @@
     "issues": 41,
     "userIssues": 41,
     "pullRequests": 13,
-    "userPullRequests": 10,
+    "userPullRequests": 13,
     "commits": 121,
     "userCommits": 82,
     "languages": {
@@ -696,7 +696,7 @@
     "issues": 8,
     "userIssues": 7,
     "pullRequests": 7,
-    "userPullRequests": 1,
+    "userPullRequests": 4,
     "commits": 64,
     "userCommits": 26,
     "languages": {
@@ -1014,7 +1014,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 3,
-    "userPullRequests": 0,
+    "userPullRequests": 1,
     "commits": 11,
     "userCommits": 3,
     "languages": {},
@@ -1028,7 +1028,7 @@
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 4,
-    "userPullRequests": 0,
+    "userPullRequests": 2,
     "commits": 29,
     "userCommits": 3,
     "languages": {
@@ -1041,11 +1041,11 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 475,
-    "forks": 148,
+    "forks": 147,
     "issues": 282,
     "userIssues": 5,
     "pullRequests": 611,
-    "userPullRequests": 3,
+    "userPullRequests": 5,
     "commits": 1351,
     "userCommits": 2,
     "languages": {
@@ -1086,11 +1086,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5648,
-    "forks": 3348,
+    "stars": 5653,
+    "forks": 3351,
     "issues": 835,
     "userIssues": 1,
-    "pullRequests": 10990,
+    "pullRequests": 10992,
     "userPullRequests": 1,
     "commits": 28676,
     "userCommits": 1,
@@ -1447,7 +1447,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 133,
+    "stars": 134,
     "forks": 14,
     "issues": 9,
     "userIssues": 1,
@@ -1467,12 +1467,28 @@
       "65452054": "nathanrboyer"
     }
   },
+  "https://github.com/esei-si-dagss/tasador-24": {
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 1,
+    "userPullRequests": 1,
+    "commits": 10,
+    "userCommits": 0,
+    "languages": {
+      "Python": 18084
+    },
+    "contributors": {
+      "6004566": "ribadas-uvigo"
+    }
+  },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 147,
     "forks": 45,
     "issues": 273,
     "userIssues": 1,
-    "pullRequests": 621,
+    "pullRequests": 622,
     "userPullRequests": 0,
     "commits": 731,
     "userCommits": 0,
