@@ -16,9 +16,9 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.7 MB | 73.73% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.62% |
-| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.04% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.7 MB | 73.72% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.63% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.03% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.50% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 553.1 kB | 1.15% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.92% |
@@ -50,7 +50,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 186 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 187 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 156 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -95,7 +95,7 @@
 | [CIN-Biometry](https://github.com/SantiagoRR2004/CIN-Biometry) | 16 |
 | [Auria-Expansion](https://github.com/SantiagoRR2004/Auria-Expansion) | 13 |
 | [GOTY](https://github.com/SantiagoRR2004/GOTY) | 12 |
-| [Learnset](https://github.com/SantiagoRR2004/Learnset) | 8 |
+| [Learnset](https://github.com/SantiagoRR2004/Learnset) | 10 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 8 |
 | [Statistics-Football](https://github.com/SantiagoRR2004/Statistics-Football) | 8 |
 | [APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 7 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3332 |
+| Total | 3335 |
 
 ## Collaborators
 
