@@ -16,10 +16,10 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.7 MB | 73.75% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.61% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 34.7 MB | 73.76% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 12.63% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.03% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.50% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.47% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 553.1 kB | 1.15% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.92% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.91% |
@@ -43,14 +43,14 @@
 | [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:SantiagoRR2004+language:Procfile) | 32.0 B | 0.00% |
 | [robots.txt](https://github.com/search?q=user:SantiagoRR2004+language:robots.txt) | 25.0 B | 0.00% |
-| Total | 47.1 MB | 100.00% |
+| Total | 47.0 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 189 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 190 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 156 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3338 |
+| Total | 3339 |
 
 ## Collaborators
 
