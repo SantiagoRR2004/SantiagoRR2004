@@ -25,8 +25,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 218,
-    "userCommits": 218,
+    "commits": 219,
+    "userCommits": 219,
     "languages": {
       "Python": 22247
     },
@@ -1040,16 +1040,16 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 482,
-    "forks": 148,
+    "stars": 483,
+    "forks": 149,
     "issues": 283,
     "userIssues": 5,
-    "pullRequests": 623,
+    "pullRequests": 625,
     "userPullRequests": 5,
-    "commits": 1364,
+    "commits": 1365,
     "userCommits": 2,
     "languages": {
-      "Python": 767669,
+      "Python": 767670,
       "HTML": 5603,
       "Shell": 1554
     },
@@ -1069,6 +1069,7 @@
       "10437649": "akashsara",
       "50247523": "cameronangliss",
       "8413475": "caymansimpson",
+      "79295644": "cmw-creator",
       "11090059": "darrenswhite",
       "27856297": "dependabot-preview[bot]",
       "49699333": "dependabot[bot]",
@@ -1086,16 +1087,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5709,
-    "forks": 3405,
+    "stars": 5711,
+    "forks": 3407,
     "issues": 839,
     "userIssues": 1,
-    "pullRequests": 11077,
+    "pullRequests": 11079,
     "userPullRequests": 1,
-    "commits": 28743,
+    "commits": 28744,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 32226577,
+      "TypeScript": 32226575,
       "JavaScript": 1554321,
       "Python": 1109,
       "HTML": 1063,
