@@ -26,7 +26,7 @@
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.27% |
 | [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 69.9 kB | 0.16% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.11% |
-| [R](https://github.com/search?q=user:SantiagoRR2004+language:R) | 46.8 kB | 0.11% |
+| [R](https://github.com/search?q=user:SantiagoRR2004+language:R) | 46.8 kB | 0.10% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.09% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.08% |
 | [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 31.3 kB | 0.07% |
@@ -50,7 +50,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 223 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 224 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3374 |
+| Total | 3375 |
 
 ## Collaborators
 
