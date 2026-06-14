@@ -25,8 +25,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 228,
-    "userCommits": 228,
+    "commits": 229,
+    "userCommits": 229,
     "languages": {
       "Python": 22247
     },
@@ -1040,7 +1040,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 485,
+    "stars": 484,
     "forks": 149,
     "issues": 283,
     "userIssues": 5,
@@ -1069,7 +1069,6 @@
       "10437649": "akashsara",
       "50247523": "cameronangliss",
       "8413475": "caymansimpson",
-      "79295644": "cmw-creator",
       "11090059": "darrenswhite",
       "27856297": "dependabot-preview[bot]",
       "49699333": "dependabot[bot]",
@@ -1081,17 +1080,18 @@
       "33169711": "kodecreer",
       "101541421": "lcgabaldon",
       "25304649": "pmariglia",
+      "79295644": "raywcm",
       "30420527": "shrianshChari",
       "38109359": "szymonWojdat",
       "4717005": "uduse"
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5725,
-    "forks": 3403,
+    "stars": 5728,
+    "forks": 3402,
     "issues": 839,
     "userIssues": 1,
-    "pullRequests": 11101,
+    "pullRequests": 11102,
     "userPullRequests": 1,
     "commits": 28756,
     "userCommits": 1,
