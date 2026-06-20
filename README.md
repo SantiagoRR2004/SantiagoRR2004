@@ -22,7 +22,7 @@
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.67% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 564.6 kB | 1.26% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.99% |
-| [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.99% |
+| [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.98% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.27% |
 | [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 69.9 kB | 0.16% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.11% |
@@ -43,14 +43,14 @@
 | [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:SantiagoRR2004+language:Procfile) | 32.0 B | 0.00% |
 | [robots.txt](https://github.com/search?q=user:SantiagoRR2004+language:robots.txt) | 25.0 B | 0.00% |
-| Total | 43.6 MB | 100.00% |
+| Total | 43.7 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 234 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 235 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -73,7 +73,7 @@
 | [Hackathon-EY](https://github.com/SantiagoRR2004/Hackathon-EY) | 64 |
 | [RI](https://github.com/SantiagoRR2004/RI) | 64 |
 | [pythocron](https://github.com/SantiagoRR2004/pythocron) | 49 |
-| [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 47 |
+| [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 48 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 42 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 41 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3385 |
+| Total | 3387 |
 
 ## Collaborators
 
