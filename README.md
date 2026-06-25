@@ -16,10 +16,10 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 31.3 MB | 71.77% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 31.3 MB | 71.76% |
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 13.61% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.50% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.67% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.68% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 564.6 kB | 1.26% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.99% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.98% |
@@ -50,7 +50,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 239 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 240 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -60,8 +60,8 @@
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Manga](https://github.com/SantiagoRR2004/Manga) | 108 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
+| [Modules](https://github.com/SantiagoRR2004/Modules) | 91 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
-| [Modules](https://github.com/SantiagoRR2004/Modules) | 90 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [PLN](https://github.com/SantiagoRR2004/PLN) | 74 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3391 |
+| Total | 3393 |
 
 ## Collaborators
 
