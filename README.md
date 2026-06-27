@@ -17,7 +17,7 @@
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 31.3 MB | 71.76% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 13.61% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 5.9 MB | 13.60% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.50% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.68% |
 | [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 564.6 kB | 1.26% |
@@ -50,7 +50,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 241 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 242 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3394 |
+| Total | 3395 |
 
 ## Collaborators
 
