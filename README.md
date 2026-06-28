@@ -36,7 +36,7 @@
 | [Turtle](https://github.com/search?q=user:SantiagoRR2004+language:Turtle) | 17.8 kB | 0.04% |
 | [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.04% |
 | [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.03% |
-| [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 11.5 kB | 0.03% |
+| [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 11.8 kB | 0.03% |
 | [SPARQL](https://github.com/search?q=user:SantiagoRR2004+language:SPARQL) | 11.4 kB | 0.03% |
 | [Makefile](https://github.com/search?q=user:SantiagoRR2004+language:Makefile) | 6.8 kB | 0.02% |
 | [CMake](https://github.com/search?q=user:SantiagoRR2004+language:CMake) | 369.0 B | 0.00% |
@@ -50,7 +50,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 334 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 242 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 243 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
@@ -110,7 +110,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3395 |
+| Total | 3396 |
 
 ## Collaborators
 
