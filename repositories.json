@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 268,
-    "userCommits": 268,
+    "commits": 269,
+    "userCommits": 269,
     "languages": {
       "Python": 22247
     },
@@ -1061,7 +1061,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 491,
+    "stars": 492,
     "forks": 151,
     "issues": 283,
     "userIssues": 5,
@@ -1108,11 +1108,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5795,
-    "forks": 3448,
+    "stars": 5798,
+    "forks": 3451,
     "issues": 843,
     "userIssues": 1,
-    "pullRequests": 11172,
+    "pullRequests": 11176,
     "userPullRequests": 1,
     "commits": 28849,
     "userCommits": 1,
@@ -1510,7 +1510,7 @@
     "forks": 45,
     "issues": 285,
     "userIssues": 1,
-    "pullRequests": 682,
+    "pullRequests": 684,
     "userPullRequests": 0,
     "commits": 799,
     "userCommits": 0,
