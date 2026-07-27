@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 271,
-    "userCommits": 271,
+    "commits": 272,
+    "userCommits": 272,
     "languages": {
       "Python": 22247
     },
@@ -371,6 +371,25 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/MITEX": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 109,
+    "userCommits": 70,
+    "languages": {
+      "Python": 150164,
+      "Shell": 762
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "57989328": "d-candal"
+    }
+  },
   "https://github.com/santipvz/IC-Threads": {
     "stars": 0,
     "forks": 0,
@@ -470,6 +489,23 @@
       "66303056": "mfgavilanes"
     }
   },
+  "https://github.com/SantiagoRR2004/SIRE-Ada": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 78,
+    "userCommits": 60,
+    "languages": {
+      "Ada": 86542
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "66303056": "mfgavilanes"
+    }
+  },
   "https://github.com/SantiagoRR2004/pythocron": {
     "stars": 0,
     "forks": 0,
@@ -520,6 +556,46 @@
       "76734632": "Sergiooo0",
       "65916846": "actions-user",
       "6004566": "ribadas-uvigo"
+    }
+  },
+  "https://github.com/SantiagoRR2004/SIRE-Lustre": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 1,
+    "userPullRequests": 1,
+    "commits": 61,
+    "userCommits": 45,
+    "languages": {
+      "Haskell": 19397,
+      "C": 6509,
+      "Shell": 2510
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "66303056": "mfgavilanes"
+    }
+  },
+  "https://github.com/SantiagoRR2004/MITEX-Steam": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 166,
+    "userCommits": 43,
+    "languages": {
+      "Python": 76632,
+      "CSV": 52844,
+      "JSON": 27339
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "57989328": "d-candal",
+      "116091929": "usbt0p"
     }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
@@ -664,11 +740,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 36,
-    "userCommits": 31,
+    "commits": 38,
+    "userCommits": 33,
     "languages": {
       "Python": 9907,
-      "Shell": 261
+      "Shell": 459
     },
     "contributors": {
       "65916846": "actions-user"
@@ -935,6 +1011,24 @@
       "4717005": "uduse"
     }
   },
+  "https://github.com/SantiagoRR2004/BocoBot": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 16,
+    "userCommits": 8,
+    "languages": {
+      "Python": 12869,
+      "Shell": 4384
+    },
+    "contributors": {
+      "147416187": "JoyBoy-IA",
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/PythonTemplate": {
     "stars": 0,
     "forks": 0,
@@ -1061,7 +1155,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 493,
+    "stars": 494,
     "forks": 151,
     "issues": 283,
     "userIssues": 5,
@@ -1108,16 +1202,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5801,
-    "forks": 3454,
-    "issues": 843,
+    "stars": 5802,
+    "forks": 3455,
+    "issues": 844,
     "userIssues": 1,
-    "pullRequests": 11179,
+    "pullRequests": 11182,
     "userPullRequests": 1,
-    "commits": 28850,
+    "commits": 28852,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 32391889,
+      "TypeScript": 32392669,
       "JavaScript": 1572105,
       "Python": 1109,
       "HTML": 1063,
