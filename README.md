@@ -17,13 +17,13 @@
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 31.3 MB | 70.34% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.5 MB | 14.69% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.5 MB | 14.68% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 6.37% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.64% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 591.6 kB | 1.30% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 591.8 kB | 1.30% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.97% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.97% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 122.3 kB | 0.27% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 123.1 kB | 0.27% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.26% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.19% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.18% |
@@ -51,8 +51,8 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 442 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 273 |
+| [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 444 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 274 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 157 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
@@ -120,7 +120,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3925 |
+| Total | 3928 |
 
 ## Collaborators
 
