@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 280,
-    "userCommits": 280,
+    "commits": 281,
+    "userCommits": 281,
     "languages": {
       "Python": 22247
     },
@@ -584,12 +584,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 174,
+    "commits": 175,
     "userCommits": 43,
     "languages": {
       "Python": 76632,
-      "CSV": 59151,
-      "JSON": 28694
+      "CSV": 59938,
+      "JSON": 28811
     },
     "contributors": {
       "76734632": "Sergiooo0",
@@ -1169,7 +1169,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 499,
+    "stars": 500,
     "forks": 151,
     "issues": 283,
     "userIssues": 5,
@@ -1216,11 +1216,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5812,
-    "forks": 3464,
+    "stars": 5818,
+    "forks": 3465,
     "issues": 845,
     "userIssues": 2,
-    "pullRequests": 11202,
+    "pullRequests": 11206,
     "userPullRequests": 1,
     "commits": 28883,
     "userCommits": 1,
@@ -1404,7 +1404,6 @@
       "165436526": "Sunny-Krys",
       "4271522": "TalkTakesTime",
       "95596011": "Tarrembeau",
-      "142454028": "TeaGuzzler",
       "116454633": "TehTayTeh",
       "7063969": "Tempoanon",
       "14843149": "Teremiare",
