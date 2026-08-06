@@ -1,6 +1,6 @@
 {
   "https://github.com/SantiagoRR2004/Pokemon-Thesis": {
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 281,
-    "userCommits": 281,
+    "commits": 282,
+    "userCommits": 282,
     "languages": {
       "Python": 22247
     },
@@ -584,12 +584,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 175,
+    "commits": 176,
     "userCommits": 43,
     "languages": {
       "Python": 76632,
-      "CSV": 59938,
-      "JSON": 28811
+      "CSV": 60729,
+      "JSON": 29043
     },
     "contributors": {
       "76734632": "Sergiooo0",
@@ -1216,11 +1216,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5818,
-    "forks": 3465,
+    "stars": 5819,
+    "forks": 3466,
     "issues": 845,
     "userIssues": 2,
-    "pullRequests": 11206,
+    "pullRequests": 11208,
     "userPullRequests": 1,
     "commits": 28883,
     "userCommits": 1,
@@ -1617,7 +1617,7 @@
     "forks": 46,
     "issues": 285,
     "userIssues": 1,
-    "pullRequests": 691,
+    "pullRequests": 692,
     "userPullRequests": 0,
     "commits": 806,
     "userCommits": 0,
