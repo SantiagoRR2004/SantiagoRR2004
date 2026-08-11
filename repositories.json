@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 286,
-    "userCommits": 286,
+    "commits": 287,
+    "userCommits": 287,
     "languages": {
       "Python": 22247
     },
@@ -584,12 +584,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 180,
+    "commits": 181,
     "userCommits": 43,
     "languages": {
       "Python": 76632,
-      "CSV": 63888,
-      "JSON": 29503
+      "CSV": 64676,
+      "JSON": 29564
     },
     "contributors": {
       "76734632": "Sergiooo0",
@@ -1216,16 +1216,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5824,
+    "stars": 5823,
     "forks": 3467,
-    "issues": 845,
+    "issues": 846,
     "userIssues": 2,
-    "pullRequests": 11214,
+    "pullRequests": 11220,
     "userPullRequests": 1,
-    "commits": 28887,
+    "commits": 28888,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 32251721,
+      "TypeScript": 32253569,
       "JavaScript": 1575670,
       "Python": 1109,
       "HTML": 1063,
@@ -1576,13 +1576,13 @@
     }
   },
   "https://github.com/chase-mew/pokemon-tcg-pocket-cards": {
-    "stars": 138,
+    "stars": 139,
     "forks": 14,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 57,
+    "pullRequests": 58,
     "userPullRequests": 0,
-    "commits": 182,
+    "commits": 186,
     "userCommits": 0,
     "languages": {
       "Python": 37500
@@ -1593,6 +1593,7 @@
       "681982": "bitmaybewise",
       "93532238": "ch1coon",
       "53957795": "chase-mew",
+      "57640182": "leonid-dalin",
       "65452054": "nathanrboyer"
     }
   },
@@ -1619,10 +1620,10 @@
     "userIssues": 1,
     "pullRequests": 693,
     "userPullRequests": 0,
-    "commits": 806,
+    "commits": 809,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 472716,
+      "TypeScript": 470476,
       "JavaScript": 15381,
       "HTML": 2634,
       "CSS": 1965
