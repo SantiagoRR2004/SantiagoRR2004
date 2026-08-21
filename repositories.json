@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 296,
-    "userCommits": 296,
+    "commits": 297,
+    "userCommits": 297,
     "languages": {
       "Python": 22247
     },
@@ -584,12 +584,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 190,
+    "commits": 191,
     "userCommits": 43,
     "languages": {
       "Python": 76632,
-      "CSV": 71777,
-      "JSON": 31639
+      "CSV": 72568,
+      "JSON": 32041
     },
     "contributors": {
       "76734632": "Sergiooo0",
@@ -1156,12 +1156,12 @@
     "forks": 151,
     "issues": 284,
     "userIssues": 5,
-    "pullRequests": 650,
+    "pullRequests": 652,
     "userPullRequests": 5,
-    "commits": 1390,
+    "commits": 1391,
     "userCommits": 3,
     "languages": {
-      "Python": 811507,
+      "Python": 811514,
       "HTML": 5603,
       "Shell": 1554
     },
@@ -1216,16 +1216,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5837,
-    "forks": 3471,
+    "stars": 5842,
+    "forks": 3472,
     "issues": 848,
     "userIssues": 2,
-    "pullRequests": 11232,
+    "pullRequests": 11233,
     "userPullRequests": 1,
-    "commits": 28911,
+    "commits": 28913,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 32261693,
+      "TypeScript": 32261677,
       "JavaScript": 1575670,
       "Python": 1109,
       "HTML": 1063,
@@ -1355,7 +1355,6 @@
       "5649306": "Layell",
       "24732684": "LegoFigure11",
       "23666482": "Lionyx",
-      "33839844": "Lucas-Meijer",
       "30205550": "Lusamine",
       "2964812": "MJB47",
       "1645989": "Marty-D",
@@ -1396,6 +1395,7 @@
       "13453363": "ShivaD173",
       "24725521": "Sipanale",
       "4925744": "Slayer95",
+      "33839844": "Snaq-PS",
       "17573352": "Soku-Hi",
       "7889474": "SolarisFox",
       "42703201": "Soul-8691",
