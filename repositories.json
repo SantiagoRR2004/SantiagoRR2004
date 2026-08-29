@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 304,
-    "userCommits": 304,
+    "commits": 305,
+    "userCommits": 305,
     "languages": {
       "Python": 22247
     },
@@ -513,10 +513,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 54,
-    "userCommits": 49,
+    "commits": 56,
+    "userCommits": 50,
     "languages": {
-      "Python": 9595,
+      "Python": 9733,
       "Shell": 625
     },
     "contributors": {
@@ -575,48 +575,6 @@
     "contributors": {
       "76734632": "Sergiooo0",
       "66303056": "mfgavilanes"
-    }
-  },
-  "https://github.com/SantiagoRR2004/Steam-TopSellers": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 199,
-    "userCommits": 44,
-    "languages": {
-      "CSV": 78088,
-      "JSON": 33391,
-      "Python": 6902
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user",
-      "57989328": "d-candal",
-      "116091929": "usbt0p"
-    }
-  },
-  "https://github.com/SantiagoRR2004/MITEX-Steam": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 198,
-    "userCommits": 43,
-    "languages": {
-      "CSV": 78088,
-      "Python": 76632,
-      "JSON": 33534
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user",
-      "57989328": "d-candal",
-      "116091929": "usbt0p"
     }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
@@ -681,6 +639,44 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/SantiagoRR2004/MITEX-Steam": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 67,
+    "userCommits": 41,
+    "languages": {
+      "Python": 69782,
+      "Shell": 450,
+      "JSON": 143
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "57989328": "d-candal",
+      "116091929": "usbt0p"
+    }
+  },
+  "https://github.com/SantiagoRR2004/BackgroundChanger": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 43,
+    "userCommits": 38,
+    "languages": {
+      "Python": 10123,
+      "Shell": 569
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/APAU_II-FineTuning": {
     "stars": 0,
     "forks": 0,
@@ -717,23 +713,6 @@
       "robots.txt": 25
     },
     "contributors": {}
-  },
-  "https://github.com/SantiagoRR2004/BackgroundChanger": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 40,
-    "userCommits": 35,
-    "languages": {
-      "Python": 9907,
-      "Shell": 571
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
   },
   "https://github.com/SantiagoRR2004/Hackathon": {
     "stars": 0,
@@ -825,6 +804,25 @@
       "65916846": "actions-user",
       "53957795": "chase-mew",
       "40212940": "da1pi2"
+    }
+  },
+  "https://github.com/SantiagoRR2004/Steam-TopSellers": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 161,
+    "userCommits": 26,
+    "languages": {
+      "CSV": 78876,
+      "JSON": 33508,
+      "Python": 6902
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
     }
   },
   "https://github.com/SantiagoRR2004/MD-Combinations": {
@@ -1098,6 +1096,21 @@
       "2480261": "sdocio"
     }
   },
+  "https://github.com/SantiagoRR2004/Backgrounds": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 7,
+    "userCommits": 7,
+    "languages": {
+      "Shell": 988,
+      "Python": 694
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/Statistics-NaiveBayes": {
     "stars": 0,
     "forks": 0,
@@ -1143,20 +1156,6 @@
     "contributors": {
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/Backgrounds": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 4,
-    "userCommits": 4,
-    "languages": {
-      "Shell": 988
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
     "stars": 0,
@@ -1237,11 +1236,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5858,
+    "stars": 5860,
     "forks": 3486,
-    "issues": 848,
+    "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11245,
+    "pullRequests": 11249,
     "userPullRequests": 1,
     "commits": 28917,
     "userCommits": 1,
@@ -1597,7 +1596,7 @@
     }
   },
   "https://github.com/chase-mew/pokemon-tcg-pocket-cards": {
-    "stars": 138,
+    "stars": 139,
     "forks": 15,
     "issues": 9,
     "userIssues": 1,
@@ -1641,11 +1640,11 @@
     "userIssues": 1,
     "pullRequests": 697,
     "userPullRequests": 0,
-    "commits": 815,
+    "commits": 816,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 473228,
-      "JavaScript": 15381,
+      "TypeScript": 473828,
+      "JavaScript": 15435,
       "HTML": 2634,
       "CSS": 1965
     },
