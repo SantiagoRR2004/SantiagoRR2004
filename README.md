@@ -16,14 +16,14 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 35.2 MB | 73.43% |
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.0 MB | 12.60% |
-| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 5.91% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.39% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 597.6 kB | 1.22% |
-| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.90% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 35.2 MB | 73.38% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.0 MB | 12.62% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 5.92% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.38% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 598.0 kB | 1.22% |
+| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.91% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.90% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 148.5 kB | 0.30% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 150.0 kB | 0.31% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.24% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.17% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.17% |
@@ -39,20 +39,21 @@
 | [Turtle](https://github.com/search?q=user:SantiagoRR2004+language:Turtle) | 17.8 kB | 0.04% |
 | [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.03% |
 | [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 11.8 kB | 0.02% |
+| [PLpgSQL](https://github.com/search?q=user:SantiagoRR2004+language:PLpgSQL) | 11.7 kB | 0.02% |
 | [SPARQL](https://github.com/search?q=user:SantiagoRR2004+language:SPARQL) | 11.4 kB | 0.02% |
 | [Makefile](https://github.com/search?q=user:SantiagoRR2004+language:Makefile) | 6.8 kB | 0.01% |
 | [CMake](https://github.com/search?q=user:SantiagoRR2004+language:CMake) | 369.0 B | 0.00% |
 | [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:SantiagoRR2004+language:Procfile) | 32.0 B | 0.00% |
 | [robots.txt](https://github.com/search?q=user:SantiagoRR2004+language:robots.txt) | 25.0 B | 0.00% |
-| Total | 48.0 MB | 100.00% |
+| Total | 47.9 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 444 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 308 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 309 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 158 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
@@ -120,7 +121,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 3984 |
+| Total | 3985 |
 
 ## Collaborators
 
