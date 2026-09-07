@@ -6,10 +6,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 454,
-    "userCommits": 446,
+    "commits": 455,
+    "userCommits": 447,
     "languages": {
-      "Python": 325016,
+      "Python": 325019,
       "TeX": 37273,
       "Shell": 5875,
       "JavaScript": 480
@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 313,
-    "userCommits": 313,
+    "commits": 314,
+    "userCommits": 314,
     "languages": {
       "Python": 22247
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 172,
+    "commits": 173,
     "userCommits": 29,
     "languages": {
-      "CSV": 85149,
-      "JSON": 68785,
+      "CSV": 85931,
+      "JSON": 68837,
       "Python": 10492
     },
     "contributors": {
@@ -813,7 +813,7 @@
     "userIssues": 7,
     "pullRequests": 7,
     "userPullRequests": 4,
-    "commits": 70,
+    "commits": 71,
     "userCommits": 26,
     "languages": {
       "Python": 30291
@@ -1127,7 +1127,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 506,
+    "stars": 507,
     "forks": 149,
     "issues": 284,
     "userIssues": 5,
@@ -1191,17 +1191,17 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5870,
-    "forks": 3510,
+    "stars": 5875,
+    "forks": 3511,
     "issues": 849,
     "userIssues": 2,
     "pullRequests": 11275,
     "userPullRequests": 1,
-    "commits": 28942,
+    "commits": 28943,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36398714,
-      "JavaScript": 1579343,
+      "TypeScript": 36397400,
+      "JavaScript": 1581218,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1593,12 +1593,12 @@
     "forks": 47,
     "issues": 286,
     "userIssues": 1,
-    "pullRequests": 711,
+    "pullRequests": 712,
     "userPullRequests": 0,
-    "commits": 828,
+    "commits": 830,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 492477,
+      "TypeScript": 506881,
       "PLpgSQL": 11992,
       "JavaScript": 9860,
       "HTML": 2634,
