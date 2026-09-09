@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 315,
-    "userCommits": 315,
+    "commits": 316,
+    "userCommits": 316,
     "languages": {
       "Python": 22247
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 174,
+    "commits": 175,
     "userCommits": 29,
     "languages": {
-      "CSV": 86715,
-      "JSON": 69003,
+      "CSV": 87498,
+      "JSON": 69499,
       "Python": 10492
     },
     "contributors": {
@@ -1127,7 +1127,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 508,
+    "stars": 509,
     "forks": 149,
     "issues": 284,
     "userIssues": 5,
@@ -1191,11 +1191,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5876,
-    "forks": 3512,
+    "stars": 5878,
+    "forks": 3515,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11278,
+    "pullRequests": 11281,
     "userPullRequests": 1,
     "commits": 28943,
     "userCommits": 1,
@@ -1550,8 +1550,8 @@
       "74513850": "zgeorgecsat"
     }
   },
-  "https://github.com/chase-mew/pokemon-tcg-pocket-cards": {
-    "stars": 139,
+  "https://github.com/PocketDecks/pokemon-tcg-pocket-cards": {
+    "stars": 140,
     "forks": 15,
     "issues": 9,
     "userIssues": 1,
@@ -1595,12 +1595,12 @@
     "userIssues": 1,
     "pullRequests": 722,
     "userPullRequests": 0,
-    "commits": 835,
+    "commits": 838,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 506881,
+      "TypeScript": 514756,
       "PLpgSQL": 11992,
-      "JavaScript": 9860,
+      "JavaScript": 9511,
       "HTML": 2634,
       "CSS": 1965
     },
