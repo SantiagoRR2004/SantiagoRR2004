@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 316,
-    "userCommits": 316,
+    "commits": 317,
+    "userCommits": 317,
     "languages": {
       "Python": 22247
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 175,
+    "commits": 176,
     "userCommits": 29,
     "languages": {
-      "CSV": 87498,
-      "JSON": 69499,
+      "CSV": 88283,
+      "JSON": 70519,
       "Python": 10492
     },
     "contributors": {
@@ -807,7 +807,7 @@
     }
   },
   "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
-    "stars": 46,
+    "stars": 47,
     "forks": 10,
     "issues": 8,
     "userIssues": 7,
@@ -1127,11 +1127,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 509,
+    "stars": 510,
     "forks": 149,
     "issues": 284,
     "userIssues": 5,
-    "pullRequests": 657,
+    "pullRequests": 658,
     "userPullRequests": 5,
     "commits": 1398,
     "userCommits": 3,
@@ -1191,17 +1191,17 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5878,
-    "forks": 3515,
+    "stars": 5884,
+    "forks": 3518,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11281,
+    "pullRequests": 11286,
     "userPullRequests": 1,
-    "commits": 28943,
+    "commits": 28963,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36397400,
-      "JavaScript": 1581218,
+      "TypeScript": 36574686,
+      "JavaScript": 1601738,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1343,6 +1343,7 @@
       "50798418": "MudBean5277",
       "19177221": "Mystifi",
       "8585751": "NaniMan",
+      "7493105": "Niadevv",
       "7720032": "NickMP",
       "5535378": "Nineage",
       "2656723": "Nixola",
@@ -1453,7 +1454,6 @@
       "16299049": "gamut-was-taken",
       "174908417": "gastlies",
       "11969863": "glacialcascade",
-      "16572185": "glitchmr",
       "4516243": "glopso",
       "19335059": "hammer798",
       "30803341": "harbar20",
@@ -1595,7 +1595,7 @@
     "userIssues": 1,
     "pullRequests": 722,
     "userPullRequests": 0,
-    "commits": 838,
+    "commits": 840,
     "userCommits": 0,
     "languages": {
       "TypeScript": 514756,
