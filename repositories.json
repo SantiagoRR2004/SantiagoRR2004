@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 320,
-    "userCommits": 320,
+    "commits": 321,
+    "userCommits": 321,
     "languages": {
       "Python": 22247
     },
@@ -225,6 +225,22 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/Modules": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 106,
+    "userCommits": 92,
+    "languages": {
+      "Python": 87068
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/PIC-Java": {
     "stars": 0,
     "forks": 0,
@@ -241,22 +257,6 @@
     "contributors": {
       "65916846": "actions-user",
       "63560596": "labbenchstudios"
-    }
-  },
-  "https://github.com/SantiagoRR2004/Modules": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 105,
-    "userCommits": 91,
-    "languages": {
-      "Python": 87045
-    },
-    "contributors": {
-      "65916846": "actions-user"
     }
   },
   "https://github.com/santipvz/PRO_I-Chatbot": {
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 179,
+    "commits": 180,
     "userCommits": 29,
     "languages": {
-      "CSV": 90632,
-      "JSON": 71619,
+      "CSV": 91418,
+      "JSON": 71679,
       "Python": 10492
     },
     "contributors": {
@@ -1191,16 +1191,16 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5888,
-    "forks": 3520,
+    "stars": 5890,
+    "forks": 3521,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11290,
+    "pullRequests": 11292,
     "userPullRequests": 1,
-    "commits": 28967,
+    "commits": 28971,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36575406,
+      "TypeScript": 36580264,
       "JavaScript": 1605115,
       "Python": 1109,
       "HTML": 1063,
@@ -1555,12 +1555,12 @@
     "forks": 15,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 69,
+    "pullRequests": 70,
     "userPullRequests": 0,
-    "commits": 308,
+    "commits": 313,
     "userCommits": 0,
     "languages": {
-      "Python": 284471
+      "Python": 286852
     },
     "contributors": {
       "48692915": "Polyphian",
@@ -1595,13 +1595,13 @@
     "userIssues": 1,
     "pullRequests": 724,
     "userPullRequests": 0,
-    "commits": 840,
+    "commits": 845,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 514756,
+      "TypeScript": 515267,
       "PLpgSQL": 11992,
       "JavaScript": 9511,
-      "HTML": 2634,
+      "HTML": 3136,
       "CSS": 1965
     },
     "contributors": {

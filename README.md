@@ -20,10 +20,10 @@
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.1 MB | 12.57% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 5.88% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.6 MB | 3.41% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 634.7 kB | 1.29% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 634.8 kB | 1.29% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.90% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.89% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 158.4 kB | 0.32% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 159.2 kB | 0.32% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.24% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.17% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.17% |
@@ -32,7 +32,7 @@
 | [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 40.8 kB | 0.08% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.08% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.08% |
-| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 25.9 kB | 0.05% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 26.4 kB | 0.05% |
 | [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 23.0 kB | 0.05% |
 | [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.04% |
 | [Haskell](https://github.com/search?q=user:SantiagoRR2004+language:Haskell) | 18.9 kB | 0.04% |
@@ -53,7 +53,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 448 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 320 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 321 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 158 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 157 |
@@ -63,8 +63,8 @@
 | [MiiPlazaDecoder](https://github.com/SantiagoRR2004/MiiPlazaDecoder) | 119 |
 | [Agentes](https://github.com/SantiagoRR2004/Agentes) | 112 |
 | [Manga](https://github.com/SantiagoRR2004/Manga) | 108 |
+| [Modules](https://github.com/SantiagoRR2004/Modules) | 92 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
-| [Modules](https://github.com/SantiagoRR2004/Modules) | 91 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
@@ -121,7 +121,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 4003 |
+| Total | 4005 |
 
 ## Collaborators
 
