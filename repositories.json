@@ -20,6 +20,23 @@
       "2330706": "milegroup"
     }
   },
+  "https://github.com/SantiagoRR2004/Pokemon": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 358,
+    "userCommits": 357,
+    "languages": {
+      "Python": 309800,
+      "Shell": 5475
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/SantiagoRR2004": {
     "stars": 0,
     "forks": 2,
@@ -27,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 322,
-    "userCommits": 322,
+    "commits": 323,
+    "userCommits": 323,
     "languages": {
       "Python": 22247
     },
@@ -774,11 +791,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 181,
+    "commits": 182,
     "userCommits": 29,
     "languages": {
-      "CSV": 92204,
-      "JSON": 71875,
+      "CSV": 92989,
+      "JSON": 72339,
       "Python": 10492
     },
     "contributors": {
@@ -1127,7 +1144,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 512,
+    "stars": 514,
     "forks": 148,
     "issues": 284,
     "userIssues": 5,
@@ -1191,11 +1208,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5894,
-    "forks": 3522,
+    "stars": 5896,
+    "forks": 3524,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11293,
+    "pullRequests": 11295,
     "userPullRequests": 1,
     "commits": 28974,
     "userCommits": 1,
@@ -1593,7 +1610,7 @@
     "forks": 47,
     "issues": 286,
     "userIssues": 1,
-    "pullRequests": 724,
+    "pullRequests": 725,
     "userPullRequests": 0,
     "commits": 845,
     "userCommits": 0,
