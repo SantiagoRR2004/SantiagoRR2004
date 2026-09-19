@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 325,
-    "userCommits": 325,
+    "commits": 326,
+    "userCommits": 326,
     "languages": {
       "Python": 22247
     },
@@ -791,11 +791,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 184,
+    "commits": 185,
     "userCommits": 29,
     "languages": {
-      "CSV": 94565,
-      "JSON": 73601,
+      "CSV": 95356,
+      "JSON": 73885,
       "Python": 10492
     },
     "contributors": {
@@ -1148,14 +1148,14 @@
     "forks": 148,
     "issues": 284,
     "userIssues": 5,
-    "pullRequests": 658,
+    "pullRequests": 661,
     "userPullRequests": 5,
-    "commits": 1398,
+    "commits": 1400,
     "userCommits": 3,
     "languages": {
       "Python": 833478,
       "HTML": 5603,
-      "Shell": 1554
+      "Shell": 2075
     },
     "contributors": {
       "58889866": "AFumis",
@@ -1208,11 +1208,11 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5898,
+    "stars": 5899,
     "forks": 3529,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11295,
+    "pullRequests": 11297,
     "userPullRequests": 1,
     "commits": 28975,
     "userCommits": 1,
@@ -1663,7 +1663,7 @@
     }
   },
   "https://github.com/nachogoro/nacional-adabyron-2026": {
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "issues": 1,
     "userIssues": 1,
