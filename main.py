@@ -191,7 +191,7 @@ if __name__ == "__main__":
         collabDict = dict(
             sorted(
                 collabDict.items(),
-                key=lambda item: (item[1]),
+                key=lambda item: (item[1].lower()),
                 reverse=False,
             )
         )
