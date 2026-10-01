@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 338,
-    "userCommits": 338,
+    "commits": 339,
+    "userCommits": 339,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 200,
+    "commits": 201,
     "userCommits": 33,
     "languages": {
-      "CSV": 104039,
-      "JSON": 81305,
+      "CSV": 104827,
+      "JSON": 81677,
       "Python": 11041
     },
     "contributors": {
@@ -1220,17 +1220,17 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5925,
-    "forks": 3543,
+    "stars": 5927,
+    "forks": 3545,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11319,
+    "pullRequests": 11324,
     "userPullRequests": 1,
-    "commits": 28985,
+    "commits": 28994,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36583500,
-      "JavaScript": 1618094,
+      "TypeScript": 36586351,
+      "JavaScript": 1628747,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1622,7 +1622,7 @@
     "forks": 47,
     "issues": 286,
     "userIssues": 1,
-    "pullRequests": 732,
+    "pullRequests": 733,
     "userPullRequests": 0,
     "commits": 848,
     "userCommits": 0,
