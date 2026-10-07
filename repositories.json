@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 344,
-    "userCommits": 344,
+    "commits": 345,
+    "userCommits": 345,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 206,
+    "commits": 207,
     "userCommits": 33,
     "languages": {
-      "CSV": 108756,
-      "JSON": 81943,
+      "CSV": 109542,
+      "JSON": 82303,
       "Python": 11041
     },
     "contributors": {
@@ -1144,7 +1144,7 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 523,
+    "stars": 524,
     "forks": 147,
     "issues": 285,
     "userIssues": 5,
@@ -1220,17 +1220,17 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5934,
-    "forks": 3547,
+    "stars": 5936,
+    "forks": 3548,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11348,
+    "pullRequests": 11351,
     "userPullRequests": 1,
-    "commits": 29030,
+    "commits": 29033,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36302133,
-      "JavaScript": 1643214,
+      "TypeScript": 36297460,
+      "JavaScript": 1643156,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
