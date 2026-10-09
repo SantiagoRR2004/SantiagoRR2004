@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 346,
-    "userCommits": 346,
+    "commits": 347,
+    "userCommits": 347,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 208,
+    "commits": 209,
     "userCommits": 33,
     "languages": {
-      "CSV": 110326,
-      "JSON": 82409,
+      "CSV": 111111,
+      "JSON": 83093,
       "Python": 11041
     },
     "contributors": {
@@ -1144,11 +1144,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 524,
+    "stars": 525,
     "forks": 147,
-    "issues": 285,
+    "issues": 286,
     "userIssues": 5,
-    "pullRequests": 665,
+    "pullRequests": 666,
     "userPullRequests": 5,
     "commits": 1400,
     "userCommits": 3,
@@ -1220,16 +1220,16 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5938,
-    "forks": 3548,
+    "stars": 5941,
+    "forks": 3550,
     "issues": 849,
     "userIssues": 2,
-    "pullRequests": 11352,
+    "pullRequests": 11354,
     "userPullRequests": 1,
-    "commits": 29034,
+    "commits": 29040,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36299594,
+      "TypeScript": 36300834,
       "JavaScript": 1643156,
       "Python": 1109,
       "HTML": 1063,
@@ -1501,7 +1501,6 @@
       "20179510": "jmclemo6",
       "15276733": "joaosilva22",
       "210167365": "jshenfield",
-      "48335226": "justin-xing",
       "88639923": "kabilapok",
       "135936845": "ken-ps",
       "23617175": "kittenchilly",
@@ -1532,6 +1531,7 @@
       "44099555": "pauliwag",
       "4651723": "piiiikachuuu",
       "22734086": "pokemonvortex",
+      "202991263": "prunyy",
       "21160928": "pyuk-bot",
       "173412551": "quziel",
       "15847359": "r0730",
@@ -1621,7 +1621,7 @@
     "forks": 47,
     "issues": 287,
     "userIssues": 1,
-    "pullRequests": 733,
+    "pullRequests": 734,
     "userPullRequests": 0,
     "commits": 849,
     "userCommits": 0,
