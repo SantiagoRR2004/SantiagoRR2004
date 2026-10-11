@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 348,
-    "userCommits": 348,
+    "commits": 349,
+    "userCommits": 349,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 210,
+    "commits": 211,
     "userCommits": 33,
     "languages": {
-      "CSV": 111899,
-      "JSON": 83579,
+      "CSV": 112686,
+      "JSON": 83697,
       "Python": 11041
     },
     "contributors": {
@@ -1222,9 +1222,9 @@
   "https://github.com/smogon/pokemon-showdown": {
     "stars": 5944,
     "forks": 3550,
-    "issues": 849,
+    "issues": 850,
     "userIssues": 2,
-    "pullRequests": 11355,
+    "pullRequests": 11357,
     "userPullRequests": 1,
     "commits": 29048,
     "userCommits": 1,
@@ -1579,7 +1579,7 @@
     }
   },
   "https://github.com/PocketDecks/pokemon-tcg-pocket-cards": {
-    "stars": 140,
+    "stars": 141,
     "forks": 15,
     "issues": 9,
     "userIssues": 1,
