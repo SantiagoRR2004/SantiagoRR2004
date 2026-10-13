@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 359,
-    "userCommits": 358,
+    "commits": 360,
+    "userCommits": 359,
     "languages": {
       "Python": 309800,
       "Shell": 5475
@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 350,
-    "userCommits": 350,
+    "commits": 351,
+    "userCommits": 351,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 212,
+    "commits": 213,
     "userCommits": 33,
     "languages": {
-      "CSV": 113473,
-      "JSON": 83697,
+      "CSV": 114260,
+      "JSON": 83929,
       "Python": 11041
     },
     "contributors": {
@@ -1129,6 +1129,18 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/Auria-Technologies/Route-66": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 1,
+    "userPullRequests": 1,
+    "commits": 3,
+    "userCommits": 3,
+    "languages": {},
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
     "stars": 0,
     "forks": 0,
@@ -1144,11 +1156,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 525,
+    "stars": 528,
     "forks": 147,
     "issues": 286,
     "userIssues": 5,
-    "pullRequests": 667,
+    "pullRequests": 668,
     "userPullRequests": 5,
     "commits": 1400,
     "userCommits": 3,
@@ -1207,29 +1219,17 @@
       "98909961": "rubenfb23"
     }
   },
-  "https://github.com/Auria-Technologies/Route-66": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 1,
-    "userPullRequests": 1,
-    "commits": 2,
-    "userCommits": 2,
-    "languages": {},
-    "contributors": {}
-  },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5946,
-    "forks": 3552,
+    "stars": 5952,
+    "forks": 3553,
     "issues": 850,
     "userIssues": 2,
-    "pullRequests": 11359,
+    "pullRequests": 11362,
     "userPullRequests": 1,
-    "commits": 29048,
+    "commits": 29052,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36303586,
+      "TypeScript": 36308527,
       "JavaScript": 1649555,
       "Python": 1109,
       "HTML": 1063,
