@@ -44,8 +44,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 354,
-    "userCommits": 354,
+    "commits": 355,
+    "userCommits": 355,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 216,
+    "commits": 217,
     "userCommits": 33,
     "languages": {
-      "CSV": 116629,
-      "JSON": 86533,
+      "CSV": 117418,
+      "JSON": 86831,
       "Python": 11041
     },
     "contributors": {
@@ -1220,17 +1220,17 @@
     }
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5960,
-    "forks": 3558,
+    "stars": 5965,
+    "forks": 3561,
     "issues": 850,
     "userIssues": 2,
-    "pullRequests": 11367,
+    "pullRequests": 11372,
     "userPullRequests": 1,
-    "commits": 29055,
+    "commits": 29061,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36308243,
-      "JavaScript": 1649555,
+      "TypeScript": 36309783,
+      "JavaScript": 1651618,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1419,7 +1419,6 @@
       "29032443": "Timbuktu22",
       "78560693": "Timman47",
       "50280402": "Tmi489",
-      "14003647": "Tocseoj",
       "73961857": "TomOfTomKat",
       "4062143": "ToucheSir",
       "65974506": "Tree69420",
@@ -1447,6 +1446,7 @@
       "72260207": "aQrator",
       "62784122": "acasualmemelord",
       "18681232": "adrivrie",
+      "336112223": "afairy-smogon",
       "8976828": "alchzh",
       "80102738": "andrebastosdias",
       "7349743": "antemortem",
@@ -1477,6 +1477,7 @@
       "39346736": "dhw0",
       "84290266": "dot-Comfey",
       "278894": "earljoves",
+      "11080850": "esnard",
       "4078549": "ewilden",
       "36804393": "franciscoatwi",
       "16299049": "gamut-was-taken",
@@ -1499,7 +1500,6 @@
       "5503625": "jas61292",
       "31784624": "jcheng412",
       "20179510": "jmclemo6",
-      "15276733": "joaosilva22",
       "210167365": "jshenfield",
       "88639923": "kabilapok",
       "135936845": "ken-ps",
@@ -1579,7 +1579,7 @@
     }
   },
   "https://github.com/PocketDecks/pokemon-tcg-pocket-cards": {
-    "stars": 140,
+    "stars": 141,
     "forks": 15,
     "issues": 9,
     "userIssues": 1,
@@ -1617,7 +1617,7 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 156,
+    "stars": 157,
     "forks": 48,
     "issues": 287,
     "userIssues": 1,
