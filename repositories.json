@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 364,
-    "userCommits": 364,
+    "commits": 365,
+    "userCommits": 365,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 226,
+    "commits": 227,
     "userCommits": 33,
     "languages": {
-      "CSV": 124493,
-      "JSON": 88689,
+      "CSV": 125275,
+      "JSON": 89017,
       "Python": 11041
     },
     "contributors": {
@@ -1002,6 +1002,21 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/Backgrounds": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 8,
+    "userCommits": 8,
+    "languages": {
+      "Shell": 988,
+      "Python": 694
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/BocoBot": {
     "stars": 0,
     "forks": 0,
@@ -1067,21 +1082,6 @@
       "65916846": "actions-user",
       "2480261": "sdocio"
     }
-  },
-  "https://github.com/SantiagoRR2004/Backgrounds": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 7,
-    "userCommits": 7,
-    "languages": {
-      "Shell": 988,
-      "Python": 694
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/Statistics-NaiveBayes": {
     "stars": 0,
@@ -1235,17 +1235,17 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 5993,
-    "forks": 3574,
-    "issues": 852,
+    "stars": 5996,
+    "forks": 3578,
+    "issues": 853,
     "userIssues": 2,
-    "pullRequests": 11397,
+    "pullRequests": 11400,
     "userPullRequests": 1,
-    "commits": 29086,
+    "commits": 29116,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36348372,
-      "JavaScript": 1681837,
+      "TypeScript": 36352513,
+      "JavaScript": 1698232,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1514,8 +1514,8 @@
       "9159214": "jamesqo",
       "5503625": "jas61292",
       "31784624": "jcheng412",
+      "166717111": "jerryjhird",
       "20179510": "jmclemo6",
-      "210167365": "jshenfield",
       "88639923": "kabilapok",
       "135936845": "ken-ps",
       "23617175": "kittenchilly",
@@ -1633,7 +1633,7 @@
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 159,
-    "forks": 48,
+    "forks": 49,
     "issues": 287,
     "userIssues": 1,
     "pullRequests": 737,
