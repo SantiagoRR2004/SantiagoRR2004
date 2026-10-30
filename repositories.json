@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 367,
-    "userCommits": 367,
+    "commits": 368,
+    "userCommits": 368,
     "languages": {
       "Python": 22255
     },
@@ -85,10 +85,10 @@
     "userIssues": 0,
     "pullRequests": 5,
     "userPullRequests": 1,
-    "commits": 276,
-    "userCommits": 160,
+    "commits": 279,
+    "userCommits": 163,
     "languages": {
-      "JSON": 646501,
+      "JSON": 685863,
       "Python": 14701
     },
     "contributors": {
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 229,
+    "commits": 230,
     "userCommits": 33,
     "languages": {
-      "CSV": 126842,
-      "JSON": 90285,
+      "CSV": 127631,
+      "JSON": 91001,
       "Python": 11041
     },
     "contributors": {
@@ -1156,11 +1156,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 535,
+    "stars": 536,
     "forks": 149,
     "issues": 288,
     "userIssues": 5,
-    "pullRequests": 668,
+    "pullRequests": 669,
     "userPullRequests": 5,
     "commits": 1400,
     "userCommits": 3,
@@ -1235,16 +1235,16 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6002,
-    "forks": 3582,
+    "stars": 6007,
+    "forks": 3585,
     "issues": 855,
     "userIssues": 2,
-    "pullRequests": 11405,
+    "pullRequests": 11407,
     "userPullRequests": 1,
-    "commits": 29117,
+    "commits": 29118,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36352529,
+      "TypeScript": 36352518,
       "JavaScript": 1698232,
       "Python": 1109,
       "HTML": 1063,
@@ -1257,7 +1257,6 @@
       "64492102": "1Mitsuki",
       "19916401": "1Nactive",
       "34448239": "ABC-Dragon-Buster",
-      "3230575": "ABrambleNinja",
       "45981036": "ACakeWearingAHat",
       "5686480": "ALAKTORN",
       "39522426": "ALUMNOAT",
@@ -1459,6 +1458,7 @@
       "46407320": "Zoroark24",
       "7078074": "Zrp200",
       "72260207": "aQrator",
+      "3230575": "abrambleninja",
       "62784122": "acasualmemelord",
       "18681232": "adrivrie",
       "336112223": "afairy-smogon",
@@ -1598,12 +1598,12 @@
     "forks": 16,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 71,
+    "pullRequests": 77,
     "userPullRequests": 0,
-    "commits": 315,
+    "commits": 328,
     "userCommits": 0,
     "languages": {
-      "Python": 286852
+      "Python": 335913
     },
     "contributors": {
       "48692915": "Polyphian",
@@ -1632,18 +1632,18 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 159,
+    "stars": 160,
     "forks": 49,
-    "issues": 287,
+    "issues": 288,
     "userIssues": 1,
     "pullRequests": 741,
     "userPullRequests": 0,
-    "commits": 850,
+    "commits": 852,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 522741,
+      "TypeScript": 524378,
       "PLpgSQL": 11992,
-      "JavaScript": 9511,
+      "JavaScript": 9528,
       "HTML": 3136,
       "CSS": 1965
     },
