@@ -19,11 +19,11 @@
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 35.2 MB | 72.19% |
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.5 MB | 13.35% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 5.82% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.7 MB | 3.56% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 768.1 kB | 1.54% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.7 MB | 3.57% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 768.2 kB | 1.54% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.89% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.88% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 195.3 kB | 0.39% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 196.1 kB | 0.39% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.24% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.17% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.16% |
@@ -53,7 +53,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 448 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 369 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 370 |
 | [Pokemon](https://github.com/SantiagoRR2004/Pokemon) | 359 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 165 |
@@ -124,7 +124,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 4431 |
+| Total | 4432 |
 
 ## Collaborators
 
