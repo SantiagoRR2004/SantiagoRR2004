@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 369,
-    "userCommits": 369,
+    "commits": 370,
+    "userCommits": 370,
     "languages": {
       "Python": 22255
     },
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 231,
+    "commits": 232,
     "userCommits": 33,
     "languages": {
-      "CSV": 128421,
-      "JSON": 91197,
+      "CSV": 129207,
+      "JSON": 91269,
       "Python": 11041
     },
     "contributors": {
@@ -1235,11 +1235,11 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6008,
+    "stars": 6010,
     "forks": 3582,
     "issues": 855,
     "userIssues": 2,
-    "pullRequests": 11412,
+    "pullRequests": 11414,
     "userPullRequests": 1,
     "commits": 29121,
     "userCommits": 1,
@@ -1632,18 +1632,18 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 160,
-    "forks": 49,
+    "stars": 161,
+    "forks": 50,
     "issues": 288,
     "userIssues": 1,
     "pullRequests": 743,
     "userPullRequests": 0,
-    "commits": 852,
+    "commits": 859,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 524378,
+      "TypeScript": 533872,
+      "JavaScript": 13160,
       "PLpgSQL": 11992,
-      "JavaScript": 9528,
       "HTML": 3136,
       "CSS": 1965
     },
