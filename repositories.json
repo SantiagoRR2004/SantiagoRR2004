@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 371,
-    "userCommits": 371,
+    "commits": 372,
+    "userCommits": 372,
     "languages": {
       "Python": 22255
     },
@@ -85,10 +85,10 @@
     "userIssues": 0,
     "pullRequests": 5,
     "userPullRequests": 1,
-    "commits": 281,
-    "userCommits": 165,
+    "commits": 279,
+    "userCommits": 163,
     "languages": {
-      "JSON": 695182,
+      "JSON": 702669,
       "Python": 14701
     },
     "contributors": {
@@ -774,11 +774,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 233,
+    "commits": 234,
     "userCommits": 33,
     "languages": {
-      "CSV": 129990,
-      "JSON": 91379,
+      "CSV": 130775,
+      "JSON": 91877,
       "Python": 11041
     },
     "contributors": {
@@ -1160,7 +1160,7 @@
     "forks": 149,
     "issues": 288,
     "userIssues": 5,
-    "pullRequests": 669,
+    "pullRequests": 670,
     "userPullRequests": 5,
     "commits": 1400,
     "userCommits": 3,
@@ -1235,17 +1235,17 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6011,
+    "stars": 6013,
     "forks": 3582,
     "issues": 855,
     "userIssues": 2,
-    "pullRequests": 11416,
+    "pullRequests": 11425,
     "userPullRequests": 1,
-    "commits": 29124,
+    "commits": 29135,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36356919,
-      "JavaScript": 1698232,
+      "TypeScript": 36358151,
+      "JavaScript": 1699981,
       "Python": 1109,
       "HTML": 1063,
       "CSS": 351,
@@ -1598,12 +1598,12 @@
     "forks": 16,
     "issues": 9,
     "userIssues": 1,
-    "pullRequests": 80,
+    "pullRequests": 85,
     "userPullRequests": 0,
-    "commits": 331,
+    "commits": 335,
     "userCommits": 0,
     "languages": {
-      "Python": 340559
+      "Python": 360981
     },
     "contributors": {
       "48692915": "Polyphian",
@@ -1633,10 +1633,10 @@
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 161,
-    "forks": 50,
+    "forks": 49,
     "issues": 288,
     "userIssues": 1,
-    "pullRequests": 743,
+    "pullRequests": 747,
     "userPullRequests": 0,
     "commits": 860,
     "userCommits": 0,
