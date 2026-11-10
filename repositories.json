@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 378,
-    "userCommits": 378,
+    "commits": 379,
+    "userCommits": 379,
     "languages": {
       "Python": 22255
     },
@@ -329,6 +329,25 @@
       "65916846": "actions-user",
       "63560596": "labbenchstudios"
     }
+  },
+  "https://github.com/SantiagoRR2004/LinkedinScraper": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 78,
+    "userCommits": 78,
+    "languages": {
+      "HTML": 8157137,
+      "Python": 74046,
+      "JSON": 20805,
+      "Pip Requirements": 95,
+      "INI": 51,
+      "Ignore List": 15
+    },
+    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/PLN": {
     "stars": 0,
@@ -774,11 +793,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 240,
+    "commits": 241,
     "userCommits": 33,
     "languages": {
-      "CSV": 135518,
-      "JSON": 94473,
+      "CSV": 136309,
+      "JSON": 94805,
       "Python": 11041
     },
     "contributors": {
@@ -1158,13 +1177,13 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 541,
+    "stars": 542,
     "forks": 150,
     "issues": 289,
     "userIssues": 5,
-    "pullRequests": 671,
+    "pullRequests": 675,
     "userPullRequests": 5,
-    "commits": 1406,
+    "commits": 1407,
     "userCommits": 3,
     "languages": {
       "Python": 833478,
@@ -1237,16 +1256,16 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6024,
-    "forks": 3591,
-    "issues": 855,
+    "stars": 6025,
+    "forks": 3592,
+    "issues": 856,
     "userIssues": 2,
-    "pullRequests": 11437,
+    "pullRequests": 11439,
     "userPullRequests": 1,
-    "commits": 29142,
+    "commits": 29145,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36383170,
+      "TypeScript": 36384990,
       "JavaScript": 1699981,
       "Python": 1109,
       "HTML": 1063,
@@ -1264,6 +1283,7 @@
       "39522426": "ALUMNOAT",
       "58618281": "AeonicX7",
       "84515713": "AlexMMcConnell",
+      "38503501": "Alexander489",
       "17515494": "AnaRitaTorres",
       "6520909": "Andi-Wang",
       "16955369": "AndrewGoncel",
