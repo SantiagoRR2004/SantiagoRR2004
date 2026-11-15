@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 383,
-    "userCommits": 383,
+    "commits": 384,
+    "userCommits": 384,
     "languages": {
       "Python": 22255
     },
@@ -793,11 +793,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 245,
+    "commits": 246,
     "userCommits": 33,
     "languages": {
-      "CSV": 138684,
-      "JSON": 97157,
+      "CSV": 139474,
+      "JSON": 97623,
       "Python": 11041
     },
     "contributors": {
@@ -1179,16 +1179,16 @@
   "https://github.com/hsahovic/poke-env": {
     "stars": 542,
     "forks": 149,
-    "issues": 290,
+    "issues": 291,
     "userIssues": 5,
-    "pullRequests": 674,
+    "pullRequests": 682,
     "userPullRequests": 5,
-    "commits": 1407,
+    "commits": 1420,
     "userCommits": 3,
     "languages": {
-      "Python": 833478,
+      "Python": 876709,
       "HTML": 5603,
-      "Shell": 2075
+      "Shell": 2113
     },
     "contributors": {
       "58889866": "AFumis",
@@ -1217,6 +1217,7 @@
       "33169711": "kodecreer",
       "101541421": "lcgabaldon",
       "25304649": "pmariglia",
+      "284215085": "pratyu2h",
       "79295644": "raywcm",
       "30420527": "shrianshChari",
       "38109359": "szymonWojdat",
@@ -1256,11 +1257,11 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6027,
-    "forks": 3596,
+    "stars": 6028,
+    "forks": 3597,
     "issues": 856,
     "userIssues": 2,
-    "pullRequests": 11440,
+    "pullRequests": 11441,
     "userPullRequests": 1,
     "commits": 29152,
     "userCommits": 1,
@@ -1658,7 +1659,7 @@
     "forks": 50,
     "issues": 290,
     "userIssues": 1,
-    "pullRequests": 748,
+    "pullRequests": 749,
     "userPullRequests": 0,
     "commits": 861,
     "userCommits": 0,
