@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 384,
-    "userCommits": 384,
+    "commits": 385,
+    "userCommits": 385,
     "languages": {
       "Python": 22255
     },
@@ -793,11 +793,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 246,
+    "commits": 247,
     "userCommits": 33,
     "languages": {
-      "CSV": 139474,
-      "JSON": 97623,
+      "CSV": 140265,
+      "JSON": 97687,
       "Python": 11041
     },
     "contributors": {
@@ -1084,6 +1084,31 @@
       "198917613": "TomasCotos"
     }
   },
+  "https://github.com/DuarteFernandezPineiro/NASA-project": {
+    "stars": 1,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 14,
+    "userPullRequests": 2,
+    "commits": 44,
+    "userCommits": 7,
+    "languages": {
+      "CSV": 208903,
+      "Python": 33050,
+      "JavaScript": 27250,
+      "Markdown": 25656,
+      "JSON": 253,
+      "Dotenv": 42,
+      "Pip Requirements": 19
+    },
+    "contributors": {
+      "117306381": "DuarteFernandezPineiro",
+      "148640382": "carmenvt7",
+      "135325970": "deibis4211",
+      "148789530": "tomasrial46"
+    }
+  },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
     "stars": 0,
     "forks": 0,
@@ -1100,6 +1125,23 @@
       "76734632": "Sergiooo0",
       "65916846": "actions-user",
       "2480261": "sdocio"
+    }
+  },
+  "https://github.com/SantiagoRR2004/NASA": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 8,
+    "userCommits": 7,
+    "languages": {
+      "Python": 5336,
+      "Pip Requirements": 125
+    },
+    "contributors": {
+      "65916846": "actions-user"
     }
   },
   "https://github.com/SantiagoRR2004/Statistics-NaiveBayes": {
@@ -1186,7 +1228,7 @@
     "commits": 1420,
     "userCommits": 3,
     "languages": {
-      "Python": 876709,
+      "Python": 876801,
       "HTML": 5603,
       "Shell": 2113
     },
@@ -1257,16 +1299,16 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6028,
-    "forks": 3597,
+    "stars": 6030,
+    "forks": 3600,
     "issues": 856,
     "userIssues": 2,
-    "pullRequests": 11441,
+    "pullRequests": 11446,
     "userPullRequests": 1,
-    "commits": 29152,
+    "commits": 29153,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36388308,
+      "TypeScript": 36388693,
       "JavaScript": 1702892,
       "Python": 1109,
       "HTML": 1063,
@@ -1638,6 +1680,26 @@
       "65452054": "nathanrboyer"
     }
   },
+  "https://github.com/SantiagoRR2004/NASA-project": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 29,
+    "userCommits": 0,
+    "languages": {
+      "JavaScript": 19016,
+      "Python": 18049
+    },
+    "contributors": {
+      "117306381": "DuarteFernandezPineiro",
+      "148640382": "carmenvt7",
+      "135325970": "deibis4211",
+      "148789530": "tomasrial46"
+    }
+  },
   "https://github.com/esei-si-dagss/tasador-24": {
     "stars": 0,
     "forks": 1,
@@ -1656,16 +1718,16 @@
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 162,
-    "forks": 50,
+    "forks": 51,
     "issues": 290,
     "userIssues": 1,
-    "pullRequests": 749,
+    "pullRequests": 752,
     "userPullRequests": 0,
-    "commits": 861,
+    "commits": 863,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 533873,
-      "JavaScript": 13160,
+      "TypeScript": 540950,
+      "JavaScript": 13169,
       "PLpgSQL": 11992,
       "HTML": 3136,
       "CSS": 1965
@@ -1707,6 +1769,8 @@
       "38170967": "sanshigo345",
       "35088073": "sduke1848",
       "11285209": "stoleas",
+      "72457864": "thundermage117",
+      "42297204": "utkarshraj11",
       "153860469": "velinakennedy",
       "180430210": "vmdumont93"
     }
