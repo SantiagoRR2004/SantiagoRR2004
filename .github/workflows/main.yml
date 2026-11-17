@@ -36,7 +36,15 @@ jobs:
           git config --local user.name "${{ github.repository_owner }}"
           if ! git diff --quiet; then
             git add .
-            git commit -m "chore: Update README.md [GitHub Action]"
+            MESSAGE="chore: Update README.md [GitHub Action]\n"
+
+            while read -r id username count email; do
+                if (( RANDOM % 100 < 50 )); then
+                    MESSAGE+=$'\nCo-authored-by: '"$username <$email>"
+                fi
+            done < <(jq -r 'to_entries[] | "\(.key) \(.value.username) \(.value.count) \(.value.emailAddress)"' collaborators.json)
+
+            git commit -m "$MESSAGE"
             git push
           else
             echo "No changes to push."
