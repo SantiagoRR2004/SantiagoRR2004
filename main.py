@@ -181,6 +181,9 @@ if __name__ == "__main__":
         ) as file:
             previousCollaborators: dict = json.load(file)
 
+    # Turn string keys into ints
+    previousCollaborators = {int(k): v for k, v in previousCollaborators.items()}
+
     previousCollaborators.update(collaborators)
 
     # Sort by count descending and then by username
