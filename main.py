@@ -183,11 +183,11 @@ if __name__ == "__main__":
 
     previousCollaborators.update(collaborators)
 
-    # Sort by username
+    # Sort by count descending and then by username
     previousCollaborators = dict(
         sorted(
             previousCollaborators.items(),
-            key=lambda item: (item[1]["username"].lower()),
+            key=lambda item: (-item[1]["count"], item[1]["username"].lower()),
             reverse=False,
         )
     )

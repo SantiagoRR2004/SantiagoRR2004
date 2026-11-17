@@ -36,10 +36,12 @@ jobs:
           git config --local user.name "${{ github.repository_owner }}"
           if ! git diff --quiet; then
             git add .
-            MESSAGE="chore: Update README.md [GitHub Action]\n"
+            MESSAGE=$'chore: Update README.md [GitHub Action]\n'
+            N_REPO=$(jq 'length' repositories.json)
+            N_REPO=$(( N_REPO < 100 ? N_REPO : 100 ))
 
             while read -r id username count email; do
-                if (( RANDOM % 100 < 50 )); then
+                if (( RANDOM % N_REPO < count )); then
                     MESSAGE+=$'\nCo-authored-by: '"$username <$email>"
                 fi
             done < <(jq -r 'to_entries[] | "\(.key) \(.value.username) \(.value.count) \(.value.emailAddress)"' collaborators.json)
