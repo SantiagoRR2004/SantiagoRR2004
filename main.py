@@ -159,9 +159,42 @@ if __name__ == "__main__":
     for repoData in repositories.values():
         for contId, contName in repoData["contributors"].items():
             if contId not in collaborators:
-                collaborators[contId] = {"username": contName, "count": 0}
+                collaborators[contId] = {
+                    "username": contName,
+                    "count": 0,
+                    "emailAddress": f"{contId}+{contName}@users.noreply.github.com",
+                }
 
             collaborators[contId]["count"] += 1
+
+    # All the information from collaborators.json should be able to be inferred from repositories.json
+    previousCollaborators = {}
+    collaboratorsFilePath = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), "collaborators.json"
+    )
+    if os.path.exists(collaboratorsFilePath):
+        with open(
+            os.path.join(
+                os.path.dirname(os.path.abspath(__file__)), "collaborators.json"
+            ),
+            "r",
+        ) as file:
+            previousCollaborators: dict = json.load(file)
+
+    previousCollaborators.update(collaborators)
+
+    # Sort by username
+    previousCollaborators = dict(
+        sorted(
+            previousCollaborators.items(),
+            key=lambda item: (item[1]["username"].lower()),
+            reverse=False,
+        )
+    )
+
+    with open(collaboratorsFilePath, "w", encoding="utf-8") as file:
+        json.dump(previousCollaborators, file, indent=2, ensure_ascii=False)
+        file.write("\n")
 
     collaboratorsR = {}
     for collabId, collabData in collaborators.items():
