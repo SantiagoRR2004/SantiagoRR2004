@@ -21,10 +21,10 @@
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.7 MB | 11.70% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 4.97% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.8 MB | 3.10% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 807.1 kB | 1.38% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 807.5 kB | 1.38% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.76% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.75% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 413.2 kB | 0.71% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 414.0 kB | 0.71% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.21% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.14% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.14% |
@@ -58,7 +58,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 448 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 396 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 397 |
 | [Pokemon](https://github.com/SantiagoRR2004/Pokemon) | 359 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 164 |
@@ -132,7 +132,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 4559 |
+| Total | 4560 |
 
 ## Collaborators
 
