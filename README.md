@@ -21,10 +21,10 @@
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 6.7 MB | 11.70% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 4.97% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 1.8 MB | 3.10% |
-| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 807.8 kB | 1.38% |
+| [JSON](https://github.com/search?q=user:SantiagoRR2004+language:JSON) | 807.9 kB | 1.38% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 444.7 kB | 0.76% |
 | [Jupyter Notebook](https://github.com/search?q=user:SantiagoRR2004+language:"Jupyter+Notebook") | 440.3 kB | 0.75% |
-| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 415.5 kB | 0.71% |
+| [CSV](https://github.com/search?q=user:SantiagoRR2004+language:CSV) | 416.3 kB | 0.71% |
 | [ASL](https://github.com/search?q=user:SantiagoRR2004+language:ASL) | 119.8 kB | 0.21% |
 | [Ada](https://github.com/search?q=user:SantiagoRR2004+language:Ada) | 84.5 kB | 0.14% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 81.8 kB | 0.14% |
@@ -58,7 +58,7 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [Pokemon-Thesis](https://github.com/SantiagoRR2004/Pokemon-Thesis) | 448 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 399 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 400 |
 | [Pokemon](https://github.com/SantiagoRR2004/Pokemon) | 359 |
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 164 |
@@ -107,10 +107,10 @@
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [CIN-Malware](https://github.com/SantiagoRR2004/CIN-Malware) | 19 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 17 |
+| [GOTY](https://github.com/SantiagoRR2004/GOTY) | 17 |
 | [Statistics-Exercises](https://github.com/SantiagoRR2004/Statistics-Exercises) | 17 |
 | [CIN-Biometry](https://github.com/SantiagoRR2004/CIN-Biometry) | 16 |
 | [Auria-Expansion](https://github.com/SantiagoRR2004/Auria-Expansion) | 13 |
-| [GOTY](https://github.com/SantiagoRR2004/GOTY) | 12 |
 | [DuarteFernandezPineiro/NASA-project](https://github.com/DuarteFernandezPineiro/NASA-project) | 10 |
 | [NASA](https://github.com/SantiagoRR2004/NASA) | 9 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 9 |
@@ -132,7 +132,7 @@
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [nachogoro/nacional-adabyron-2026](https://github.com/nachogoro/nacional-adabyron-2026) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 4562 |
+| Total | 4568 |
 
 ## Collaborators
 

@@ -27,8 +27,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 400,
-    "userCommits": 399,
+    "commits": 401,
+    "userCommits": 400,
     "languages": {
       "Python": 23541
     },
@@ -759,11 +759,11 @@
     "userIssues": 0,
     "pullRequests": 1,
     "userPullRequests": 1,
-    "commits": 256,
+    "commits": 257,
     "userCommits": 36,
     "languages": {
-      "CSV": 144990,
-      "JSON": 99589,
+      "CSV": 145783,
+      "JSON": 99651,
       "Python": 11041,
       "Pip Requirements": 26
     },
@@ -957,6 +957,23 @@
       "2480261": "sdocio"
     }
   },
+  "https://github.com/SantiagoRR2004/GOTY": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 2,
+    "userPullRequests": 2,
+    "commits": 20,
+    "userCommits": 17,
+    "languages": {
+      "Python": 6840,
+      "HTML": 712
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/Statistics-Exercises": {
     "stars": 0,
     "forks": 0,
@@ -1003,23 +1020,6 @@
     "languages": {
       "Python": 11697,
       "Shell": 107
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/GOTY": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 15,
-    "userCommits": 12,
-    "languages": {
-      "Python": 5834,
-      "HTML": 712
     },
     "contributors": {
       "65916846": "actions-user"
@@ -1306,16 +1306,16 @@
     "contributors": {}
   },
   "https://github.com/smogon/pokemon-showdown": {
-    "stars": 6039,
-    "forks": 3609,
+    "stars": 6041,
+    "forks": 3610,
     "issues": 856,
     "userIssues": 2,
-    "pullRequests": 11455,
+    "pullRequests": 11457,
     "userPullRequests": 1,
-    "commits": 29157,
+    "commits": 29162,
     "userCommits": 1,
     "languages": {
-      "TypeScript": 36387739,
+      "TypeScript": 36395626,
       "JavaScript": 1702892,
       "Python": 1109,
       "HTML": 1063,
